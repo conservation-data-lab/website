@@ -3,18 +3,24 @@ title: ""
 
 page-layout: full
 
-
 execute: 
   freeze: false
   echo: false
   warning: false
+  
+format:
+  html:
+    css: styles.css
+
+home:
+  class: home-page
 ---
 
 <br><br>
 
 
 
-<br><br>
+<br><br><br><br>
 
 
 
@@ -23,11 +29,9 @@ execute:
 
 ::: {.right-align}
 
-The Conservation Data Lab is a “ragtangle nature lovers and scientists hailing from an incredible diversity of backgrounds and skillsets, all here with the purpose of bettering ecosystems and ourselves” (Cassidy Downing, CDL alumni, 2020).
-
-**Or put more officially:**
-
+<span style="font-size: 22pt;">
 The Conservation Data Lab is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members  explore, map, summarize and present data while simultaneously building an amazing community.
+</span>
 :::
 
 :::
