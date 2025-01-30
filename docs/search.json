@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "We do cool things"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "We write about our cool projects"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "CDL IS AMAZING"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "conservationdatalab.org",
+    "section": "",
+    "text": "The Conservation Data Lab is a “ragtangle nature lovers and scientists hailing from an incredible diversity of backgrounds and skillsets, all here with the purpose of bettering ecosystems and ourselves” (Cassidy Downing, CDL alumni, 2020).\nOr put more officially:\nThe Conservation Data Lab is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members explore, map, summarize and present data while simultaneously building an amazing community."
+  }
+]

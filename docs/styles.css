@@ -1,0 +1,33 @@
+
+
+.right-align {
+  text-align: right;
+}
+
+
+.column {
+  padding: 0 35px; /* Adjust the value as needed */
+}
+
+
+.logo {
+  margin-top: 100px; /* Adjust the value as needed */
+}
+
+
+@font-face {
+  font-family: 'Gothic Engravers';
+  src: url('fonts/engravers-gothic-regular.otf') format('truetype'); /* Adjust the path and format as needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Gothic Engravers', sans-serif;
+  font-size: 16pt; /* Set the body font size to 16pt */
+}
+
+
+.navbar {
+  background-color: #455430; /* Set the navbar background color */
+}

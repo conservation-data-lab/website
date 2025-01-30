@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    watch-inputs: false
+
+website:
+  title: "conservationdatalab.org"
+  navbar:
+    search: TRUE
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+
+      
+format:
+  html:
+    theme: 
+      light: flatly
+css: styles.css
+
+
+        
+        
+        
+        

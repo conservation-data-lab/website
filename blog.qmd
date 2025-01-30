@@ -1,0 +1,5 @@
+---
+title: "Blog"
+---
+
+We write about our cool projects
