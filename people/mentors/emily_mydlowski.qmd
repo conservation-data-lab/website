@@ -1,0 +1,20 @@
+---
+title: "Emily Mydlowski"
+sortby: "1"
+subtitle: "Mentor"
+image: emily_mydlowski.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Emily moved to Michigan’s Upper Peninsula in 2012 for college and fell in love with Lake Superior. Throughout her undergraduate career Emily was a McNair Scholar, president of Sun and Pine Nature Club, and an active participant of the Minnesota Dragonfly Society. As a Master’s student, Emily enjoyed teaching biology labs to undergraduate students and spent many, many hours peering through a microscope wrangling rotifers. Emily worked for The National Park Service as biological science and fisheries technicians at Isle Royale National Park for three summer seasons. For her doctoral work, Emily is investigating the impacts of moose browse and wildfire on soil and vegetation communities at Isle Royale National Park. Another component of her work will include using GIS to examine the role insect pests (e.g., spruce budworm and satin moth) play in the disturbance regime at Isle Royale. 
+
+When she is not working on academic projects, she loves self-propelled long distance travel (thru hiking, paddling big miles by canoe), spending mornings in the kitchen baking for a crowd, time with her cat Meera, and playing cribbage with her partner Dan.
+
+

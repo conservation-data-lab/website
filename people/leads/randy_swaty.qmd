@@ -1,0 +1,17 @@
+---
+title: "Randy Swaty"
+sortby: "1"
+subtitle: "Founder, co-lead"
+image: randy_swaty.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+I am an Ecologist for The Nature Conservancy’s LANDFIRE team and co-lead of the Conservation Data Lab. I use ecological knowledge and programming expertise to assist natural resource professionals seeking the best data to support their work. I routinely lead problem-solving and data exploration sessions and demonstrates the power of leadership and coordination through a wide professional network. My work has ranged from supporting mycorrhizal fungi experts to map potential fungal communities (see Swaty et al., 2016) to developing a template for forest professionals to follow when preparing for forest certification audits. My accomplishments include the publication of multiple peer-reviewed publications and participation in numerous professional presentations but most of all, I enjoy connecting with natural resource professionals and helping them find ways to best leverage the power of ecological data to advance and amplify their work.
+

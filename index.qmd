@@ -20,7 +20,7 @@ home:
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 
@@ -43,3 +43,8 @@ The Conservation Data Lab is a cohort of young professionals and students learni
 
 :::
 :::
+
+
+<br><br><br>
+
+<p style="text-align: center;">The CDL is respectful of diversity (gender, sexuality, disability, age, socioeconomic status, ethnicity, race, culture, immigration status, and religion) as we believe engaging people from diverse backgrounds is essential in achieving socially just and ecologically relevant conservation outcomes.</p>

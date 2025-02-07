@@ -9,9 +9,11 @@ website:
   navbar:
     search: TRUE
     pinned: true
-    left:
+    right:
       - href: index.qmd
         text: Home
+      - href: people.qmd
+        text: People
       - href: about.qmd
         text: About
       - href: projects.qmd

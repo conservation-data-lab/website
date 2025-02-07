@@ -1,0 +1,17 @@
+---
+title: "Mary Kelly"
+sortby: "1"
+subtitle: "Mentor"
+image: mary_kelly.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Mary graduated from Northern Michigan University (NMU), double-majoring in Environmental Science (natural resources emphasis) and French. Entering her final year of college, Mary leads two NMU student organizations, is an alumna of the NMU Student Leader Fellowship Program, and has interned in the federal government and non-profit conservation spaces. In the CDL, Mary mapped old growth forests in Oregon, looking at Biophysical Settings and historical tree data to determine which areas could have been classified as old growth if not for certain circumstances. Her favorite part of the CDL is being part of a community of people who care for the well-being of the environment. Fall of 2024 Mary entered the University of Michigan as a Master’s Degree student in GIS and data analytics.
+

@@ -1,0 +1,8 @@
+---
+title: "feedback, questions, notes, tasks"
+---
+
+## Notes
+
+* see https://affcom.ku.edu/ and repo for how to set up People page https://github.com/jmgirard/affcomlab
+
