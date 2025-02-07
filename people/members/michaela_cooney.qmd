@@ -1,5 +1,5 @@
 ---
-title: "Mary Kelly"
+title: "Michaela Cooney"
 sortby: "1"
 subtitle: "Member"
 image: michaela_cooney.jpg
