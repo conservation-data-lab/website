@@ -1,0 +1,17 @@
+---
+title: "Katie Bell"
+sortby: "1"
+subtitle: "Member"
+image: katie_bell.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Katie originates from Ann Arbor but moved up to Marquette in 2021 to pursue a degree in Biology with a minor in Food, Environment, and Society from Northern Michigan University. She hopes to use this degree to study gut microbiomes and help teach children and adults more about the importance of good, healthy foods. She joined the CDL after meeting Randy at a local coffee shop. While not studying Katie spends time biking, running, camping and hanging out with her dogs.  
+

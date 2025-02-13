@@ -1,0 +1,21 @@
+---
+title: "Sam Kurkowski"
+sortby: "1"
+subtitle: "Mentor"
+image: sam_kurkowski.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+After wetlands captured my heart during my time at Michigan Tech, I have wanted to pursue wetland restoration to better care for these important ecosystems. While my masters focused on vernal pools in the Great Lakes region, I am most interested in peatlands and their unique vegetation and hydrology. Between restoration efforts and teaching people about wetlands and their functions I aim to tangibly improve the relationship humans have with the earth. Beyond ecology, my passion for the outdoors includes endurance sports (think running, Nordic skiing, and mountain biking), backcountry camping, and being on the water in sailboats and canoes. Growing up in Minnesota and visiting the Boundary Waters I will always love the lakes of the north woods. Becoming the wetlands lab manager at Utah State in Logan is my most recent adventure and I can't wait to learn about new ecosystems and explore the area. 
+
+While I don't currently have a project with the CDL, I enjoyed mapping wetlands in the Great Lakes using LANDFIRE data and found the CDL to be a great source of community, encouragement, and resources for growing my skills in GIS, R, and data science in general.
+
+Also on Instagram at https://www.instagram.com/a.ram.sam.sam/.

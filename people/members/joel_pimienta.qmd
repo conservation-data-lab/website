@@ -1,0 +1,17 @@
+---
+title: "Erick Joel Pimienta Tovar"
+sortby: "1"
+subtitle: "Member"
+image: joel_pimienta.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Joel is a recent graduate of the University of Idaho. His research interests range from invasion ecology, landscape ecology, GIS applications for ecology, fire ecology, and restoration ecology. He has worked with threatened species and is familiar with the ecology of the Intermountain West. Joel’s most recent project involves endangered species conservation, prescribed burning restoration methods, remote sensing, and invasive plant encroachment. He joined the conservation lab after Randy created a class project using LANDFIRE BpS models and SyncroSim modeling software. Joel enjoys whitewater rafting, fly fishing, cooking, baking, and keeping bioactive aquariums and terrariums in his free time.
+

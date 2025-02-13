@@ -1,0 +1,21 @@
+---
+title: "Rachel Meier"
+sortby: "1"
+subtitle: "Co-lead"
+image: rachel_meier.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Rachel was born and raised along the shores of Minnesota’s 10,000 lakes while spending her summers exploring the mountains of Colorado. While in college, Rachel studied for a semester in New Zealand and she quickly became invested in climate change mitigation and adaptation (and Hokey Pokey ice cream).
+
+After graduating with a degree in Environmental Studies and Geography at Gustavus Adolphus College, she wandered out West and jumped right into pursuing a Masters of the Environment degree at the University of Colorado-Boulder, focusing on Sustainability Planning and Management.
+
+Rachel spent time at The Nature Conservancy’s New Mexico chapter creating maps and doing spatial analysis before joining Lotus, and she is excited to help communities understand where their greenhouse gas emissions are coming from and to create data visualizations that allow clients to communicate the importance of sustainability to their constituents.
+

@@ -1,0 +1,17 @@
+---
+title: "Emily Chrostowski"
+sortby: "1"
+subtitle: "Member"
+image: emily_chrostowski.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Undergraduate at Northern Michigan University, studying ecology/botany with minors in French and Chemistry.  Plays rugby and scuba dives.

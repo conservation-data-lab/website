@@ -1,0 +1,21 @@
+---
+title: "Kelly Ahern"
+sortby: "1"
+subtitle: "Member"
+image: kelly_ahern.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Kelly is an upcoming graduate looking forward to the start of her field work career. After four years at Northern Michigan University studying Ecology, she is particularly interested in botany, mycology, and fire ecology. After graduation, Kelly is hoping to work as a wildland firefighter with the US Forest Service before transitioning into a botany technician role later down the line. She holds a deep and abiding passion for good cheese, Brandon Sanderson books, and building fires on the beach.
+
+
+LinkedIn: www.linkedin.com/in/keahern
+
+Instagram: @keahern

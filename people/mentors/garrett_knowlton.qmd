@@ -1,0 +1,19 @@
+---
+title: "Garrett Knowlton"
+sortby: "1"
+subtitle: "Mentor"
+image: garrett_knowlton.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+I am broadly interested in landscape ecology, ecological modeling, and climate change science and adaptation. Through my research, I hope to help communities, managers, and ecosystems adapt to a changing planet. My research at UW-Madison will broadly focus on modeling future forest landscapes in the northern Rocky Mountains and the implications of changing forests for conservation and biodiversity.
+
+In my free time I enjoy riding bicycles, fly fishing, spending time on the water in my kayak or canoe, and birding. I also enjoy live music and learning how to cook new things.

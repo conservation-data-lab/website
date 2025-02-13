@@ -1,0 +1,17 @@
+---
+title: "Eleanor Gagnon"
+sortby: "1"
+subtitle: "Member"
+image: eleanor_gagnon.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Eleanor Gagnon is currently working in Fairbanks Alaska with the Alaska Just Transition Collective and Fairbanks Climate Action Coalition (FCAC). She is originally from Marquette Michigan and holds a bachelors in History and a Masters in International Relations. As a long time resident of the Upper Peninsula of Michigan she holds a long time interest in anything ecology related and attempts to engage whenever she can, if she’s not organizing protests for FCAC or doing research on regenerative economics.  
+

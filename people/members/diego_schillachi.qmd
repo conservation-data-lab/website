@@ -1,0 +1,17 @@
+---
+title: "Diego Schillachi"
+sortby: "1"
+subtitle: "Member"
+image: diego_schillachi.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Sustainability and Geographic Information Systems student at Paul Smith's College.  

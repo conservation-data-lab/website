@@ -1,0 +1,17 @@
+---
+title: "Carson Freitag"
+sortby: "1"
+subtitle: "Member"
+image: carson_freitag.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Hello my name is Carson Freitag I am a student at Norther Michigan University going into my senior year studying Biology with a concentration in Ecology. I am very interested in going into the environmental consulting field, and expanding my knowledge of GIS work while working in this lab. 

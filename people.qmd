@@ -18,7 +18,7 @@ listing:
     fields: [image, title, subtitle]
     grid-item-align: center
     sort: sortby
-  - id: research-assistants
+  - id: members
     contents: "people/members/*.qmd"
     type: grid
     image-height: 225px
@@ -44,4 +44,44 @@ listing:
 ## Members
 
 :::{#members}
+:::
+
+## Alumni
+
+::: {.columns}
+:::: {.column width="50%"}
+- Celeste Basken
+- Cassie Begert
+- Abril Belgara Andrew
+- Scott Benhart
+- Cole Bonino
+- Brandon Caltrider
+- Cassidy Downing
+- Chris Eckerson
+- Mathurin Gagnon
+- Andy Harrison
+- Robyn Holmes
+- Braden Kelsey
+- Lea Kemle
+- Rhayna Lillie
+
+::::
+
+:::: {.column width="50%"}
+
+- Emma Lusting
+- Stacey Marion
+- Alex Mezera
+- Avery Merrit
+- Julia Olsen
+- Laura Roncal
+- Laura Slavsky
+- Cassie Stitzman
+- Alice Stoff
+- Maddie Tango
+- Beth Teeters
+- Myles Walimaa
+- Gavin White
+- Anna Wright
+::::
 :::

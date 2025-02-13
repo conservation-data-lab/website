@@ -1,0 +1,17 @@
+---
+title: "Silas Pickhardt"
+sortby: "1"
+subtitle: "Member"
+image: silas_pickhardt.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Silas grew up in Madison, Wisconsin and moved to Marquette, Michigan in the fall of 2021 to pursue a degree in Fisheries and Wildlife Management at Northern Michigan University. After an internship with Oregon State University in the summer of 2023, he hopes to point his career in the direction of forestry in the coming years. He was introduced to the CDL after a short impromptu meeting with Randy. Outside of his career pursuit, Silas spends lots of time outside climbing, surfing, hiking and enjoys playing guitar as well. 
+

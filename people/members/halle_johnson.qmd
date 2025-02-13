@@ -1,0 +1,18 @@
+---
+title: "Halle Johnson"
+sortby: "1"
+subtitle: "Member"
+image: halle_johnson.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Halle was born in Indianapolis, IN and raised in Green Bay, WI. She is currently studying Botany and French at Northern Michigan University, and has a passion for plant ecology. Her goal is to pursue a Master’s Degree and eventually a PhD, while striving to blend fieldwork and lab research. Beyond academics, Halle enjoys bryology, entomology and herpetology, and currently cares for a common snapping turtle named Naldo.  
+ 
+

@@ -1,0 +1,22 @@
+---
+title: "Eva Legge"
+sortby: "1"
+subtitle: "Member"
+image: eva_legge.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+I am a first year PhD student at Syracuse University in the Department of Biology. My research aims to bridge the gap between basic mycorrhizal research and applied forest management. That said, I am lucky to currently be a member of two labs: Dr. Andrew Vander Yacht's Applied Forest and Fire Ecology Lab at SUNY ESF and Dr. Christopher Fernandez' Mycorrhizal Ecology Lab at Syracuse University. 
+
+In June 2023, I graduated from Dartmouth College with a BA in Biology (with an Ecology concentration). At Dartmouth, I was a member of the Hicks Pries Soil Ecology Lab, first as a research assistant for graduate students, then as a collaborator on a literature review on litter decomposition (published by Ecology) and, finally, as an honors thesis researcher. My undergraduate thesis examined the role arbuscular mycorrhizae may play in facilitating forest regeneration under varied levels of forest disturbance (selective harvest and quarter-acre clear cuts). I will continue along a similar vein of research in graduate school and beyond: working with landowners, forest managers, and local knowledge holders in order to help us manage our forests to be more resilient to global change.
+
+I'm also an avid science communicator, a practice which was inspired by my science writer grandfather. I believe good communication is necessary for any scientific practice that strives to be wide-reaching and inclusive.
+
+
