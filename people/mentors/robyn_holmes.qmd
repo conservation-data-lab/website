@@ -1,0 +1,25 @@
+---
+title: "Robyn Holmes"
+sortby: "1"
+subtitle: "Mentor"
+image: robyn_holmes.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+I love all things water science, but I’m especially interested in the ecohydrology of rivers and streams. Water is fascinating to me due to all the connected processes it’s involved in. My favorite way to learn about hydrologic systems is though firsthand observation out in the field but I also really enjoy the problem solving involved with modeling and remote sensing. I also love doing art connected to the science I am working on or interested in and communicating water science topics to a general audience (learn more about this at my website: watercyclecolors.com). My CDL project is using high resolution remote sensing to investigate at the impact of beavers on riparian vegetation post-wildfire. When not doing water science, you can usually find me outdoors (near water, probably) or making things (sewing, painting, cooking, etc.).  Currently a Monitoring Crew Lead at Anabranch Solutions
+
+Also see me at:
+
+[Instagram](https://www.instagram.com/water.cycle.colors/)
+
+[LinkedIn](www.linkedin.com/in/rnholmes/) 
+
+[watercyclecolors.com](watercyclecolors.com)
+
