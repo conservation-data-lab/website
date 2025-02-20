@@ -1,7 +1,7 @@
 ---
 title: "Rachel Meier"
 sortby: "1"
-subtitle: "Co-Lead"
+subtitle: "Thought partner"
 image: rachel_meier.jpg
 about:
   id: person-profile

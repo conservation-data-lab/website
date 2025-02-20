@@ -1,7 +1,7 @@
 ---
 title: "Mary Kelly"
 sortby: "1"
-subtitle: "Mentor"
+subtitle: "Projects Manager"
 image: mary_kelly.jpg
 about:
   id: person-profile
