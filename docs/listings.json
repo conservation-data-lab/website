@@ -2,8 +2,9 @@
   {
     "listing": "/people.html",
     "items": [
-      "/people/leads/rachel_meier.html",
       "/people/leads/randy_swaty.html",
+      "/people/co_leads/rachel_meier.html",
+      "/people/co_leads/sam_kurkowski.html",
       "/people/mentors/emily_mydlowski.html",
       "/people/mentors/erin_matula.html",
       "/people/mentors/garrett_knowlton.html",
@@ -11,7 +12,6 @@
       "/people/mentors/keith_phelps.html",
       "/people/mentors/mary_kelly.html",
       "/people/mentors/myles_walimaa.html",
-      "/people/mentors/sam_kurkowski.html",
       "/people/mentors/stacey_marion.html",
       "/people/members/carson_freitag.html",
       "/people/members/diego_schillachi.html",

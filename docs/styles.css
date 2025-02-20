@@ -33,3 +33,14 @@ body {
 }
 
 
+/* Increase the font size of the Table of Contents */
+.toc .toc-item {
+    font-size: 1.7em; /* Adjust the size as needed */
+}
+
+/* Change the color of selected text */
+::selection {
+    background-color: #A4DAD1;
+    color: #000; /* Optional: Change the text color within the selection */
+}
+

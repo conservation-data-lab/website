@@ -1,9 +1,17 @@
 ---
 pagetitle: "People | Conservation Data Lab"
-toc: false
+toc: TRUE
 listing:
   - id: leads
     contents: "people/leads/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+  - id: co_leads
+    contents: "people/co_leads/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 3
@@ -34,6 +42,11 @@ listing:
 ## Leads
 
 :::{#leads}
+:::
+
+## Co-Leads
+
+:::{#co_leads}
 :::
 
 ## Mentors

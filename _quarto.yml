@@ -14,12 +14,12 @@ website:
         text: Home
       - href: people.qmd
         text: People
-      - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
       - href: blog.qmd
         text: Blog
+      - href: participate.qmd
+        text: Participate
+      - href: about.qmd
+        text: About
 
       
 format:

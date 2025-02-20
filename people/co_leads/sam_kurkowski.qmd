@@ -1,7 +1,7 @@
 ---
 title: "Sam Kurkowski"
 sortby: "1"
-subtitle: "Mentor"
+subtitle: "Co-Lead"
 image: sam_kurkowski.jpg
 about:
   id: person-profile

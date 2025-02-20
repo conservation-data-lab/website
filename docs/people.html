@@ -98,6 +98,34 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-co_leads .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-co_leads'] = new List('listing-co_leads', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-mentors .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -186,7 +214,7 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -212,16 +240,16 @@ window.Quarto = {
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./blog.html"> 
 <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./participate.qmd"> 
+<span class="menu-text">Participate</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -234,7 +262,19 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#leads" id="toc-leads" class="nav-link active" data-scroll-target="#leads">Leads</a></li>
+  <li><a href="#co-leads" id="toc-co-leads" class="nav-link" data-scroll-target="#co-leads">Co-Leads</a></li>
+  <li><a href="#mentors" id="toc-mentors" class="nav-link" data-scroll-target="#mentors">Mentors</a></li>
+  <li><a href="#members" id="toc-members" class="nav-link" data-scroll-target="#members">Members</a></li>
+  <li><a href="#alumni" id="toc-alumni" class="nav-link" data-scroll-target="#alumni">Alumni</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -245,24 +285,7 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="leads">Leads</h2>
 <div id="listing-leads" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1739452507305" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
-<a href="./people/leads/rachel_meier.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/leads/rachel_meier.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Rachel Meier
-</h5>
-<div class="card-subtitle listing-subtitle">
-Co-lead
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1738945032663" data-listing-reading-time-sort="1" data-listing-word-count-sort="137">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1738945032663" data-listing-reading-time-sort="1" data-listing-word-count-sort="137">
 <a href="./people/leads/randy_swaty.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -274,6 +297,50 @@ Randy Swaty
 </h5>
 <div class="card-subtitle listing-subtitle">
 Founder, co-lead
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="co-leads" class="level2">
+<h2 class="anchored" data-anchor-id="co-leads">Co-Leads</h2>
+<div id="listing-co_leads" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1740056071084" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
+<a href="./people/co_leads/rachel_meier.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/co_leads/rachel_meier.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Rachel Meier
+</h5>
+<div class="card-subtitle listing-subtitle">
+Co-Lead
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1740055870430" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
+<a href="./people/co_leads/sam_kurkowski.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/co_leads/sam_kurkowski.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sam Kurkowski
+</h5>
+<div class="card-subtitle listing-subtitle">
+Co-Lead
 </div>
 </div>
 </div>
@@ -408,24 +475,7 @@ Mentor
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1739453739111" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
-<a href="./people/mentors/sam_kurkowski.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/mentors/sam_kurkowski.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Sam Kurkowski
-</h5>
-<div class="card-subtitle listing-subtitle">
-Mentor
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1739453902323" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1739453902323" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
 <a href="./people/mentors/stacey_marion.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
