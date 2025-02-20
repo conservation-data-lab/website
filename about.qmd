@@ -1,6 +1,43 @@
 ---
 title: "About"
+toc: TRUE
 ---
 
 
-CDL IS AMAZING
+## What is the Conservation Data Lab?
+
+The Conservation Data Lab (CDL) is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members work diligently to explore, map, summarize and present data while simultaneously building an amazing community of encouraging peers.
+
+### What types of conservation problems have CDL members taken on?
+
+We have used code to map fire severity in Guatemala; presented to local and national audiences, analysed large datasets and more. Some examples of our work include:
+
+* Quickly built a [dashboard](https://rswaty.github.io/carbonBlockGroups/dash.html#the-map) using R and QGIS to help start conversations about equitable investments in carbon sequestration.
+* Wrote an [online book](https://thenatureconservancy.github.io/landfire-guide/) that teaches forest managers how to use LANDFIRE data to identify High Conservation Value Areas.
+* Conducted multiple landscape-scale vegetation assessments in locations across the United States, including along [the Colorado Plateau](https://thenatureconservancy.github.io/copla/).
+
+### What types of skills do CDL members have?
+
+Most importantly all members bring a strong drive to learn and contribute.  Many come to us with skills such as:
+
+* Data gathering, wrangling, cleaning, and visualizing in R and Excel, with increasing proficiency in other systems like Python.
+* GIS analysis in R, QGIS, and ArcGIS Pro.
+* Reproducible research within GitHub.
+
+
+## Conservation Data Lab Origin Story
+
+In 2019, Randy (aka 'Greasy' due to a errand MadLibs :) ) was really missing working in a lab-an environment is so creative, productive and full of problem solving.  Without a PhD he was unable to start a lab at a university.  That said, there was nothing stopping him from starting one anyways.  The idea was this: people need a supportive place to build skills, connect and contribute.  
+
+![Mathurin, Cole, Myles, Randy and Laura-the first CDL members.](assets/first_gen_cdl.png){style="float:right; margin-left: 25px;" fig-alt="\"Historical ecosystems map of a large region in the western United States." fig-align="right" width="500" }
+
+With nothing more than this idea the Conservation Data Lab was born.  The first members, Mathurin, Cole, Myles, Randy and Laura laid the foundation, meeting weekly and completing challenging projects such as this [Shiny App](https://randy-swaty.shinyapps.io/EcosystemExplorerRS/) that presents historical disturbance information and a [web report](https://lslavsky.github.io/Michi/Exploration.html) that presents ecosystem information for the Michigamme Highlands, a key conservation are in Michigan. 
+
+Through the years over 60 people have participated in the CDL at some level-some as a guest speaker, some as members for a few months and some for years.  As Myles once stated, "once a member always a member".
+
+
+
+
+
+
+

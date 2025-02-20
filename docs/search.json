@@ -119,27 +119,6 @@
     "text": "Biography\nRachel was born and raised along the shores of Minnesota’s 10,000 lakes while spending her summers exploring the mountains of Colorado. While in college, Rachel studied for a semester in New Zealand and she quickly became invested in climate change mitigation and adaptation (and Hokey Pokey ice cream).\nAfter graduating with a degree in Environmental Studies and Geography at Gustavus Adolphus College, she wandered out West and jumped right into pursuing a Masters of the Environment degree at the University of Colorado-Boulder, focusing on Sustainability Planning and Management.\nRachel spent time at The Nature Conservancy’s New Mexico chapter creating maps and doing spatial analysis before joining Lotus, and she is excited to help communities understand where their greenhouse gas emissions are coming from and to create data visualizations that allow clients to communicate the importance of sustainability to their constituents."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "conservationdatalab.org",
-    "section": "",
-    "text": "The Conservation Data Lab is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members explore, map, summarize and present data while simultaneously building an amazing community. \n\n\n\n\n\n\n\nThe CDL is respectful of diversity (gender, sexuality, disability, age, socioeconomic status, ethnicity, race, culture, immigration status, and religion) as we believe engaging people from diverse backgrounds is essential in achieving socially just and ecologically relevant conservation outcomes."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "CDL IS AMAZING"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "We write about our cool projects"
-  },
-  {
     "objectID": "notes_tasks_feedback_etc.html",
     "href": "notes_tasks_feedback_etc.html",
     "title": "feedback, questions, notes, tasks",
@@ -152,6 +131,48 @@
     "title": "feedback, questions, notes, tasks",
     "section": "",
     "text": "see https://affcom.ku.edu/ and repo for how to set up People page https://github.com/jmgirard/affcomlab"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "We write about our cool projects"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Conservation Data Lab (CDL) is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members work diligently to explore, map, summarize and present data while simultaneously building an amazing community of encouraging peers.\n\n\nWe have used code to map fire severity in Guatemala; presented to local and national audiences, analysed large datasets and more. Some examples of our work include:\n\nQuickly built a dashboard using R and QGIS to help start conversations about equitable investments in carbon sequestration.\nWrote an online book that teaches forest managers how to use LANDFIRE data to identify High Conservation Value Areas.\nConducted multiple landscape-scale vegetation assessments in locations across the United States, including along the Colorado Plateau.\n\n\n\n\nMost importantly all members bring a strong drive to learn and contribute. Many come to us with skills such as:\n\nData gathering, wrangling, cleaning, and visualizing in R and Excel, with increasing proficiency in other systems like Python.\nGIS analysis in R, QGIS, and ArcGIS Pro.\nReproducible research within GitHub."
+  },
+  {
+    "objectID": "about.html#what-is-the-conservation-data-lab",
+    "href": "about.html#what-is-the-conservation-data-lab",
+    "title": "About",
+    "section": "",
+    "text": "The Conservation Data Lab (CDL) is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members work diligently to explore, map, summarize and present data while simultaneously building an amazing community of encouraging peers.\n\n\nWe have used code to map fire severity in Guatemala; presented to local and national audiences, analysed large datasets and more. Some examples of our work include:\n\nQuickly built a dashboard using R and QGIS to help start conversations about equitable investments in carbon sequestration.\nWrote an online book that teaches forest managers how to use LANDFIRE data to identify High Conservation Value Areas.\nConducted multiple landscape-scale vegetation assessments in locations across the United States, including along the Colorado Plateau.\n\n\n\n\nMost importantly all members bring a strong drive to learn and contribute. Many come to us with skills such as:\n\nData gathering, wrangling, cleaning, and visualizing in R and Excel, with increasing proficiency in other systems like Python.\nGIS analysis in R, QGIS, and ArcGIS Pro.\nReproducible research within GitHub."
+  },
+  {
+    "objectID": "about.html#conservation-data-lab-origin-story",
+    "href": "about.html#conservation-data-lab-origin-story",
+    "title": "About",
+    "section": "Conservation Data Lab Origin Story",
+    "text": "Conservation Data Lab Origin Story\nIn 2019, Randy (aka ‘Greasy’ due to a errand MadLibs :) ) was really missing working in a lab-an environment is so creative, productive and full of problem solving. Without a PhD he was unable to start a lab at a university. That said, there was nothing stopping him from starting one anyways. The idea was this: people need a supportive place to build skills, connect and contribute.\n\n\n\nMathurin, Cole, Myles, Randy and Laura-the first CDL members.\n\n\nWith nothing more than this idea the Conservation Data Lab was born. The first members, Mathurin, Cole, Myles, Randy and Laura laid the foundation, meeting weekly and completing challenging projects such as this Shiny App that presents historical disturbance information and a web report that presents ecosystem information for the Michigamme Highlands, a key conservation are in Michigan.\nThrough the years over 60 people have participated in the CDL at some level-some as a guest speaker, some as members for a few months and some for years. As Myles once stated, “once a member always a member”."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "conservationdatalab.org",
+    "section": "",
+    "text": "The Conservation Data Lab is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members explore, map, summarize and present data while simultaneously building an amazing community. \n\n\n\n\n\n\n\nThe CDL is respectful of diversity (gender, sexuality, disability, age, socioeconomic status, ethnicity, race, culture, immigration status, and religion) as we believe engaging people from diverse backgrounds is essential in achieving socially just and ecologically relevant conservation outcomes."
+  },
+  {
+    "objectID": "participate.html#need-help-with-a-conservation-data-focused-project",
+    "href": "participate.html#need-help-with-a-conservation-data-focused-project",
+    "title": "Participate",
+    "section": "Need help with a conservation data focused project?",
+    "text": "Need help with a conservation data focused project?"
   },
   {
     "objectID": "people/co_leads/sam_kurkowski.html#biography",
