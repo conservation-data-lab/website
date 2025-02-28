@@ -1,0 +1,36 @@
+---
+title: "Refreshing the CDL Website"
+description: "New logo, content and style"
+author: "Randy Swaty"
+date: "2025-02-28"
+image: cdl_logo_full.jpg
+draft: false
+categories:
+  - projects
+format:
+  html:
+    page-layout: full
+    toc: false
+
+---
+
+
+Inspired by a new logo by [Chloe Walimaa](conservation-data-lab/website), and driven by a desire to modernize and simplify we have updated our website!  Both websites were built using R, with content stored on GitHub then published on Netlify.  Additionally, both websites are member and project focused.  However, our older website was unecessarily complex to maintain, and had zero design components outside of the Wowchemy Academic template.  To update our site we:
+
+* Used a simple Quarto website format, with the flatly theme
+* Wrote some minimal .css (cascading style sheets) for minor customizing
+* Added this Blog page
+* Leaned on the new logo and a few additional style components developed by Chloe
+
+Because of the simplicity it will be easier for mentors and co-leads to help maintain and add content, more staightforward to troubleshoot and because of all of that, more lively.
+
+We were inspired by a couple of websites including:
+
+* https://silviacanelon.com/ by Dr. Silvia Canelon (who kindly provided permission to use her website as a template)
+* https://affcom.ku.edu/ by Dr. Jeffry Girard
+
+Both of the authors have made their repos public, for which we are grateful!  We will be doing the same soon in hopes of helping others.
+
+**We hope you like our new site and hope to hear from you!**
+
+

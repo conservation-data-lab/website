@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/update_website/index.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/leads/randy_swaty.html",

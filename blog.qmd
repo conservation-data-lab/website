@@ -1,5 +1,9 @@
 ---
-title: "Blog"
+pagetitle: "Blog of the Conservation Data Lab"
+toc: false
+listing:
+  contents: "posts/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
 ---
-
-We write about our cool projects
