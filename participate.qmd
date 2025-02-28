@@ -4,6 +4,56 @@ title: "Participate"
 
 ## Join us as a member
 
+We are all about community and would love to have you join us!  There are a few things we ask of members:
+
+**That you are committed to learning/contributing to conservation**
+
+* Be actively working on a learning plan and/or a project
+* Has connected to a Mentor; initiates communications and check-ins
+
+**That you are engaged in the CDL community**
+
+* Attend 2+ meetings per month
+* Posts review requests and/or useful links and/or tech questions and/or career items in our Slack (esp in place of emails to Randy and/or Mentor) and/or responds when possible
+* Respectful communication, welcoming all members and perspectives
+
+**Facilitates CDL administration**
+
+* Completes onboarding tasks
+* Tracks learning and/or project progress
+* Lets CDL leadership know if you need to step away
+
+We expect that members stick around for a CDL year (usually August-May), though “once a member always a member” (quote from Myles Walimaa).  We 120% understand things come up and you may need to step away.  If so PLEASE let CDL leadership know.  We won’t be offended; we just need to know.  You are always welcomed back noting the spirit of the requirements above. 
+
+To join or to get more information email [Randy Swaty](mailto:rswaty@tnc.org).
+
 
 ## Need help with a conservation data focused project?
 
+A tenant of the CDL is contributing to conservation.  Do you have a project that could use the skills of CDL members?  In the past we have taken on many challenges such as:
+
+* Assisting with analysis, mapping and deployment of a [website](https://thenatureconservancy.github.io/MOFireNeedsReport/) illustrating the need for prescribed fire in Missouri.
+* Developing python/R scripts that download LANDSAT data, then process, calculate and map fire severity for Guatemala.
+* Writing an online book that guides land managers through use of [LANDFIRE](https://thenatureconservancy.github.io/landfire-guide/) to meet specific Forest Stewardship Council criteria.
+* Presented analyses to a broad range of stakeholders, from local to national (see recording of CDL members presenting to the LANDFIRE users community [here](https://www.youtube.com/watch?v=dswwNYsxQpo&list=PLwRbAc4x5n94rLca1CXXuugtRDt_G666M))
+* Completed an assessment of late-succession habitat and wildfire exposure risk for the central region of the Upper Peninsula of Michigan, then developed and deployed a [website](https://conservation-data-lab.github.io/cup_assessment/) to showcase the results. 
+
+**What do previous clients have to say about CDL?**
+
+>“The CDL team were fantastic partners. They provided top-notch products in a timely and professional manner. It was great to talk through the project with them and to have their skills in geospatial data advance our project. ”– Ann Armstrong, Conservation Social Scientist, The Nature Conservancy
+
+**What types of skills do CDL members have?**
+
+* Data gathering, wrangling, cleaning, and visualizing in R and Excel, with increasing proficiency in Python.
+* GIS analysis in R, QGIS, and ArcGIS Pro.
+* Reproducible research within GitHub.
+* Eagerness and a willingness to learn!
+
+**What are enabling conditions that make amazing projects?**
+
+CDL projects aim to provide a new perspective to real world needs that involve an active ‘client’, definable deliverables, a deadline, and (ideally) financial compensation. 
+
+**How do I connect with the CDL?**
+To be involved, please contact [Randy Swaty](mailto:rswaty@tnc.org)
+
+<br>
