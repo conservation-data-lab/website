@@ -1,6 +1,6 @@
 ---
 title: "Refreshing the CDL Website"
-description: "New logo, content and style"
+description: "Building a new website with Quarto, R, blog posts a new logo and an updated look"
 author: "Randy Swaty"
 date: "2025-02-28"
 image: cdl_logo_full.jpg

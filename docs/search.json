@@ -7,6 +7,13 @@
     "text": "Inspired by a new logo by Chloe Walimaa, and driven by a desire to modernize and simplify we have updated our website! Both websites were built using R, with content stored on GitHub then published on Netlify. Additionally, both websites are member and project focused. However, our older website was unecessarily complex to maintain, and had zero design components outside of the Wowchemy Academic template. To update our site we:\n\nUsed a simple Quarto website format, with the flatly theme\nWrote some minimal .css (cascading style sheets) for minor customizing\nAdded this Blog page\nLeaned on the new logo and a few additional style components developed by Chloe\n\nBecause of the simplicity it will be easier for mentors and co-leads to help maintain and add content, more staightforward to troubleshoot and because of all of that, more lively.\nWe were inspired by a couple of websites including:\n\nhttps://silviacanelon.com/ by Dr. Silvia Canelon (who kindly provided permission to use her website as a template)\nhttps://affcom.ku.edu/ by Dr. Jeffry Girard\n\nBoth of the authors have made their repos public, for which we are grateful! We will be doing the same soon in hopes of helping others.\nWe hope you like our new site and hope to hear from you!"
   },
   {
+    "objectID": "posts/keweenaw_harvest/index.html",
+    "href": "posts/keweenaw_harvest/index.html",
+    "title": "Developing a Harvest Suitability Model",
+    "section": "",
+    "text": "CDL mentors Keith Phelps and Garrett Knowlton created maps and a small written report for The Nature Conservancy TNC in Michigan to identify areas for potential forest harvest using LANDFIRE data. To identify suitable areas we used ArcGIS model builder to build quick suitability maps that could be edited on the fly with TNC staff. This worked well to edit suitability “rules” quickly while meeting with project partners. Model parameters included setting common numeric scales for Existing Vegetation Type (EVT), Existing Vegetation Cover (EVC), and Existing Vegetation Height (EVH). These separate layers were all combined using a weighted sum and weighted overlay to get two final model results– one with continuous and one with discrete data. In addition, a third map was created to map recently disturbed areas to do quick visual model validations. TNC will use these results to validate modeled maps with on-the-ground surveys and to create forest management plans for the Keewenaw Heartland Forest project."
+  },
+  {
     "objectID": "people/mentors/stacey_marion.html#biography",
     "href": "people/mentors/stacey_marion.html#biography",
     "title": "Stacey Marion",
@@ -88,7 +95,7 @@
     "href": "people/co_leads/mary_kelly.html#biography",
     "title": "Mary Kelly",
     "section": "Biography",
-    "text": "Biography\nMary graduated from Northern Michigan University (NMU), double-majoring in Environmental Science (natural resources emphasis) and French. Entering her final year of college, Mary leads two NMU student organizations, is an alumna of the NMU Student Leader Fellowship Program, and has interned in the federal government and non-profit conservation spaces. In the CDL, Mary mapped old growth forests in Oregon, looking at Biophysical Settings and historical tree data to determine which areas could have been classified as old growth if not for certain circumstances. Her favorite part of the CDL is being part of a community of people who care for the well-being of the environment. Fall of 2024 Mary entered the University of Michigan as a Master’s Degree student in GIS and data analytics."
+    "text": "Biography\nI’m a lifelong Michigander and current graduate student (MS) at the University of Michigan studying ecosystem science and management and geospatial data sciences. I received my BS in Environmental Science and French from Northern Michigan University in 2024. My interests are generally centered on conservation/restoration in the context of forests and wetlands. For my master’s project, I am working within a team of 5 U-M students and our project partners at the Indigenous-led Buffalo Nations Grasslands Alliance to develop geospatial (GIS, R, Python) tools and advocate for federal policies that will enable Tribes in the Northern Great Plains region of the United States to prioritize lands for restoration and enhance wildlife connectivity.\nI have been a CDL member since 2022. My CDL project compared spatial distributions of late-successional forests in coastal Oregon from pre-European settlement to present-day, integrating LANDFIRE data into GIS and R. Since progressing into a Mentor/Project Manager role, it’s been fun to see what everyone’s working on and to help guide the future of the CDL. When I do get free time, you can find me doing a number of things, including training for my next race (typically anything 5k - half marathon, but I’m becoming triathlon-curious), messing around in the kitchen, or reading."
   },
   {
     "objectID": "notes_tasks_feedback_etc.html",
@@ -109,7 +116,7 @@
     "href": "blog.html",
     "title": "conservationdatalab.org",
     "section": "",
-    "text": "Refreshing the CDL Website\n\n\n\n\n\n\nprojects\n\n\n\nNew logo, content and style\n\n\n\n\n\nFeb 28, 2025\n\n\nRandy Swaty\n\n\n\n\n\n\nNo matching items"
+    "text": "Developing a Harvest Suitability Model\n\n\n\n\n\n\nprojects\n\n\n\nUsing ArcGIS Pro and LANDFIRE data to map potential hardwood harvest locations\n\n\n\n\n\nFeb 28, 2025\n\n\nKeith Phelps and Garrett Knowlton\n\n\n\n\n\n\n\n\n\n\n\n\nLANDFIRE Late Succession Assessment Demo\n\n\n\n\n\n\nprojects\n\n\n\nComparing historical vs. current amounts of late succession habitat in coastal Oregon\n\n\n\n\n\nFeb 28, 2025\n\n\nMary Kelly\n\n\n\n\n\n\n\n\n\n\n\n\nRefreshing the CDL Website\n\n\n\n\n\n\nprojects\n\n\n\nBuilding a new website with Quarto, R, blog posts a new logo and an updated look\n\n\n\n\n\nFeb 28, 2025\n\n\nRandy Swaty\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -264,5 +271,12 @@
     "title": "conservationdatalab.org",
     "section": "Alumni",
     "text": "Alumni\n\n\n\nCeleste Basken\nCassie Begert\nAbril Belgara Andrew\nScott Benhart\nCole Bonino\nBrandon Caltrider\nCassidy Downing\nChris Eckerson\nMathurin Gagnon\nAndy Harrison\nRobyn Holmes\nBraden Kelsey\nLea Kemle\nRhayna Lillie\n\n\n\nEmma Lusting\nStacey Marion\nAlex Mezera\nAvery Merrit\nJulia Olsen\nLaura Roncal\nLaura Slavsky\nCassie Stitzman\nAlice Stoff\nMaddie Tango\nBeth Teeters\nMyles Walimaa\nGavin White\nAnna Wright"
+  },
+  {
+    "objectID": "posts/late_succession/index.html",
+    "href": "posts/late_succession/index.html",
+    "title": "LANDFIRE Late Succession Assessment Demo",
+    "section": "",
+    "text": "The goal of this project was to explore the use of LANDFIRE data to assess late-successional habitat in coastal Oregon. I mapped the historical ecosystems, estimated amounts of pre-settlement late-succession habitat, and compared the historical to current amounts. The project culminated in a presentation at the Society for Conservation GIS conference, a website, and integration of the methods into an Environmental Impact Statement for the US Forest Service.\nGenerally, I had success in working with the Biophysical Settings (historical) and Succession Classes (current) data. The main challenges came with working through the methodology, since this type of work had never been done before. Randy and his TNC colleagues, as well as various GIS/R help forums, were incredibly helpful in getting over the bumps. Because of this project, I gained skills in R, GIS, and website development, and became more interested in terrestrial ecosystems.\nThis project was pivotal to my growth in technical areas such as coding, spatial analysis, and presenting research. Since completing the project, I’ve tried to center forests in my independent class projects and portfolio development while in grad school."
   }
 ]

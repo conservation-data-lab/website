@@ -6,11 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Randy Swaty">
+<meta name="author" content="Keith Phelps and Garrett Knowlton">
 <meta name="dcterms.date" content="2025-02-28">
-<meta name="description" content="Building a new website with Quarto, R, blog posts a new logo and an updated look">
+<meta name="description" content="Using ArcGIS Pro and LANDFIRE data to map potential hardwood harvest locations">
 
-<title>Refreshing the CDL Website – conservationdatalab.org</title>
+<title>Developing a Harvest Suitability Model – conservationdatalab.org</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -127,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Refreshing the CDL Website</h1>
+<h1 class="title">Developing a Harvest Suitability Model</h1>
   <div class="quarto-categories">
     <div class="quarto-category">projects</div>
   </div>
@@ -135,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Building a new website with Quarto, R, blog posts a new logo and an updated look
+    Using ArcGIS Pro and LANDFIRE data to map potential hardwood harvest locations
   </div>
 </div>
 
@@ -145,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Randy Swaty </p>
+             <p>Keith Phelps and Garrett Knowlton </p>
           </div>
   </div>
     
@@ -164,21 +164,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Inspired by a new logo by <a href="conservation-data-lab/website">Chloe Walimaa</a>, and driven by a desire to modernize and simplify we have updated our website! Both websites were built using R, with content stored on GitHub then published on Netlify. Additionally, both websites are member and project focused. However, our older website was unecessarily complex to maintain, and had zero design components outside of the Wowchemy Academic template. To update our site we:</p>
-<ul>
-<li>Used a simple Quarto website format, with the flatly theme</li>
-<li>Wrote some minimal .css (cascading style sheets) for minor customizing</li>
-<li>Added this Blog page</li>
-<li>Leaned on the new logo and a few additional style components developed by Chloe</li>
-</ul>
-<p>Because of the simplicity it will be easier for mentors and co-leads to help maintain and add content, more staightforward to troubleshoot and because of all of that, more lively.</p>
-<p>We were inspired by a couple of websites including:</p>
-<ul>
-<li>https://silviacanelon.com/ by Dr.&nbsp;Silvia Canelon (who kindly provided permission to use her website as a template)</li>
-<li>https://affcom.ku.edu/ by Dr.&nbsp;Jeffry Girard</li>
-</ul>
-<p>Both of the authors have made their repos public, for which we are grateful! We will be doing the same soon in hopes of helping others.</p>
-<p><strong>We hope you like our new site and hope to hear from you!</strong></p>
+<p>CDL mentors Keith Phelps and Garrett Knowlton created maps and a small written report for <a href="https://www.nature.org/en-us/about-us/where-we-work/united-states/michigan/">The Nature Conservancy TNC in Michigan</a> to identify areas for potential forest harvest using <a href="https://landfire.gov/">LANDFIRE</a> data. To identify suitable areas we used ArcGIS model builder to build quick suitability maps that could be edited on the fly with TNC staff. This worked well to edit suitability “rules” quickly while meeting with project partners. Model parameters included setting common numeric scales for <a href="https://landfire.gov/">Existing Vegetation Type (EVT)</a>, <a href="https://landfire.gov/vegetation/evc">Existing Vegetation Cover (EVC)</a>, and <a href="https://landfire.gov/vegetation/evh">Existing Vegetation Height (EVH)</a>. These separate layers were all combined using a weighted sum and weighted overlay to get two final model results– one with continuous and one with discrete data. In addition, a third map was created to map recently disturbed areas to do quick visual model validations. TNC will use these results to validate modeled maps with on-the-ground surveys and to create forest management plans for the Keewenaw Heartland Forest project.</p>
 
 
 
