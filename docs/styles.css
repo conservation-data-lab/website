@@ -1,5 +1,15 @@
 
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .right-align {
   text-align: right;
 }
@@ -15,17 +25,7 @@
 }
 
 
-@font-face {
-  font-family: 'Gothic Engravers';
-  src: url('fonts/engravers-gothic-regular.otf') format('truetype'); /* Adjust the path and format as needed */
-  font-weight: normal;
-  font-style: normal;
-}
 
-body {
-  font-family: 'Gothic Engravers', sans-serif;
-  font-size: 16pt; /* Set the body font size to 16pt */
-}
 
 
 .navbar {
