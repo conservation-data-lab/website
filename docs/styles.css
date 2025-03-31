@@ -48,3 +48,21 @@ h1, h2, h3, h4, h5, h6 {
 body {
   background-color: #fffbf2;
 }
+
+.bottom-left-image {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: auto; /* Adjust the width as needed */
+  height: auto; /* Adjust the height as needed */
+  transform: translate(2cm, -4cm);
+  text-align: center; /* Center the caption */
+}
+
+.bottom-left-image figcaption {
+  font-size: 12px; /* Adjust the font size as needed */
+  color: #333; /* Adjust the color as needed */
+}
+
+
+
