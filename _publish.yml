@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: a677a6d1-52c2-4e0b-b870-1f9cbddb8ff3
-      url: https://conservationdatalab.org/
+      url: compassionate-darwin-491d16.netlify.app
