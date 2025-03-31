@@ -16,13 +16,8 @@ home:
   class: home-page
 ---
 
-<br><br>
 
-
-
-<br><br><br>
-
-
+<br><br><br><br><br>
 
 ::: columns
 ::: {.column width="50%"}
@@ -30,7 +25,7 @@ home:
 ::: {.right-align}
 
 <span style="font-size: 18pt;">
-The Conservation Data Lab is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members  explore, map, summarize and present data while simultaneously building an amazing community.
+The Conservation Data Lab is a cohort of young professionals and students learning data-focused skills and tackling real-world conservation problems. Members explore, map, summarize and present data while simultaneously building an amazing community.
 </span>
 :::
 
@@ -38,13 +33,18 @@ The Conservation Data Lab is a cohort of young professionals and students learni
 
 ::: {.column width="50%"}
 
-![](assets/cdl_logo_full.jpg){.logo}
-
+<div style="display: flex; align-items: center; height: 100%;">
+  <img src="assets/logo_off_white.png" class="logo" style="margin: auto;">
+</div>
 
 :::
 :::
-
 
 <br><br><br><br><br><br><br>
 
 <p style="text-align: center;">The CDL is respectful of diversity (gender, sexuality, disability, age, socioeconomic status, ethnicity, race, culture, immigration status, and religion) as we believe engaging people from diverse backgrounds is essential in achieving socially just and ecologically relevant conservation outcomes.</p>
+
+<figure class="bottom-left-image">
+  <img src="assets/matula_spruces_off_white.png" alt="Matula Spruces">
+  <figcaption>CDL art by Erin Matula</figcaption>
+</figure>
