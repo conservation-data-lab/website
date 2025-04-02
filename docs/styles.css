@@ -1,9 +1,7 @@
-
-
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
 
 body {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -14,24 +12,17 @@ h1, h2, h3, h4, h5, h6 {
   text-align: right;
 }
 
-
 .column {
   padding: 0 35px; /* Adjust the value as needed */
 }
-
 
 .logo {
   margin-top: 40px; /* Adjust the value as needed */
 }
 
-
-
-
-
 .navbar {
   background-color: #455430; /* Set the navbar background color */
 }
-
 
 /* Increase the font size of the Table of Contents */
 .toc .toc-item {
@@ -43,7 +34,6 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #A4DAD1;
     color: #000; /* Optional: Change the text color within the selection */
 }
-
 
 body {
   background-color: #fffbf2;
@@ -64,5 +54,51 @@ body {
   color: #333; /* Adjust the color as needed */
 }
 
+/* Media Queries for Mobile Devices */
+@media (max-width: 768px) {
+  .right-align {
+    text-align: center;
+  }
 
+  .column {
+    padding: 0 15px; /* Reduce padding for smaller screens */
+  }
+
+  .logo {
+    margin-top: 20px; /* Adjust margin for smaller screens */
+  }
+
+  .bottom-left-image {
+    position: relative; /* Change to relative positioning */
+    transform: none; /* Remove transform */
+    margin-top: 20px; /* Add margin to separate from text */
+    margin-bottom: 20px; /* Add margin to separate from text */
+  }
+}
+
+
+
+/* Increase font size for paragraph text */
+.blog-post p {
+  font-size: 18px; /* Adjust the size as needed */
+}
+
+/* Increase font size for headings */
+.blog-post h1 {
+  font-size: 36px; /* Adjust the size as needed */
+}
+
+.blog-post h2 {
+  font-size: 30px; /* Adjust the size as needed */
+}
+
+/* Increase font size for bulleted and numbered list items */
+.blog-post ul, .blog-post ol {
+  font-size: 18px; /* Match the paragraph text size */
+}
+
+/* Increase font size for web links */
+.blog-post a {
+  font-size: 18px; /* Match the paragraph text size */
+}
 

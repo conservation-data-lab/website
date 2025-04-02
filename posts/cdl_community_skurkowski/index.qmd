@@ -15,9 +15,22 @@ format:
 ---
 
 
+<div class="blog-post">
+
+
 For me, one of the most special things about CDL is the community and culture it has created. I joined CDL over 3 years ago during grad school as a place to build coding skills and meet others trying to do the same. I was immediately welcomed in without judgement of my skills (or lack of them) and encouraged to leap into learning, try new things, and fail! I knew any challenges I came up against, I would be supported by kind and curious people with a broad enough range of expertise to help me answer any questions I had. And if no one knew, we would figure it out together. It was extremely comforting to know people had my back, especially in the midst of the black hole of learning and struggling that is graduate school. 
+
 As I finished school, it was so nice to have friends in natural resources and science that could look over application materials and offer career advice and support. While this kind of skill building is not as direct as coding or mapping in GIS, helping early career people navigate the job market and build skills that will get them jobs (such as resume writing, public speaking, or networking) is a key part of CDL’s mission. CDL does an excellent job supporting whole people in their education, careers, hobbies, and personal lives. It is an anything goes space where people get to bring whatever they may want to share and are met where they are with whole hearted enthusiasm.
+
 Over time, projects fell out of reach for me as my personal and professional life occupied all of my time and energy. That ultimately didn’t matter! I’ve continued to be part of CDL because of the community I feel here, and I have truly enjoyed getting to help others learn and build skills instead of working on my own. I look forward to getting to know each new member who joins us and building deeper friendships with those I’ve had the pleasure of knowing for longer. It’s a big, rough world out there, and its great to have people in your corner. 
 
+<br>
+<br>
 
+
+
+![](sam_randy.jpg){width=700}
+
+
+</div>
 

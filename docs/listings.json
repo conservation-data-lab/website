@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/cdl_community_skurkowski/index.html",
-      "/posts/keweenaw_harvest/index.html",
-      "/posts/late_succession/index.html",
-      "/posts/update_website/index.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/leads/randy_swaty.html",
@@ -34,6 +25,15 @@
       "/people/members/kelly_ahern.html",
       "/people/members/michaela_cooney.html",
       "/people/members/silas_pickhardt.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/cdl_community_skurkowski/index.html",
+      "/posts/keweenaw_harvest/index.html",
+      "/posts/late_succession/index.html",
+      "/posts/update_website/index.html"
     ]
   }
 ]
