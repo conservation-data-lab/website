@@ -14,4 +14,13 @@ format:
 
 ---
 
+<div class="blog-post">
+
 CDL mentors Keith Phelps and Garrett Knowlton created maps and a small written report for [The Nature Conservancy TNC in Michigan](https://www.nature.org/en-us/about-us/where-we-work/united-states/michigan/) to identify areas for potential forest harvest using [LANDFIRE](https://landfire.gov/) data. To identify suitable areas we used ArcGIS model builder to build quick suitability maps that could be edited on the fly with TNC staff. This worked well to edit suitability “rules” quickly while meeting with project partners. Model parameters included setting common numeric scales for [Existing Vegetation Type (EVT)](https://landfire.gov/), [Existing Vegetation Cover (EVC)](https://landfire.gov/vegetation/evc), and [Existing Vegetation Height (EVH)](https://landfire.gov/vegetation/evh). These separate layers were all combined using a weighted sum and weighted overlay to get two final model results– one with continuous and one with discrete data. In addition, a third map was created to map recently disturbed areas to do quick visual model validations. TNC will use these results to validate modeled maps with on-the-ground surveys and to create forest management plans for the Keewenaw Heartland Forest project. 
+
+<br>
+<br>
+
+![](map.jpg)
+
+</div>

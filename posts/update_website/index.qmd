@@ -14,6 +14,7 @@ format:
 
 ---
 
+<div class="blog-post">
 
 Inspired by a new logo by [Chloe Walimaa](conservation-data-lab/website), and driven by a desire to modernize and simplify we have updated our website!  Both websites were built using R, with content stored on GitHub then published on Netlify.  Additionally, both websites are member and project focused.  However, our older website was unecessarily complex to maintain, and had zero design components outside of the Wowchemy Academic template.  To update our site we:
 
@@ -32,5 +33,13 @@ We were inspired by a couple of websites including:
 Both of the authors have made their repos public, for which we are grateful!  We will be doing the same soon in hopes of helping others.
 
 **We hope you like our new site and hope to hear from you!**
+
+
+<br>
+<br>
+
+![](cdl_logo_full.jpg)
+
+</div>
 
 
