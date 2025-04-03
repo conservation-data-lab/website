@@ -1,0 +1,23 @@
+---
+title: "Willow Brookhouse"
+sortby: "1"
+subtitle: "Member"
+image: willow_brookhouse.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Willow is from Grand Rapids, Michigan, and has loved the outside for as long as she can remember.  She has gone on countless hikes on Kent Trails, where she developed an understanding of riverine ecosystems.  After spending a year at Grand Rapids Community College, she went north, where she currently attends Northern Michigan University as a Environmental Science Major, with a concentration in Natural Resources, and a double minor in Biology and GIS.  She reached out to join the CDL to work on wildfire research and use GIS, where she continues to learn new things, and is excited to get more involved in CDL research. 
+
+**Interests:** GIS, Ecology, Hiking, Plants, Soils, Fire ecology, Forestry, Legos, and Reading
+**Past/current education:** B.S. in Environmental Sciences at Northern Michigan University
+
+
+Link to Resume: https://docs.google.com/document/d/1u_k-v091Jhaln-uU6iNEeifwsEGa_5Y0PkebsHd3zsY/edit?usp=sharing 
+
