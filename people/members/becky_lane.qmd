@@ -1,0 +1,17 @@
+---
+title: "Becky Lane"
+sortby: "1"
+subtitle: "Member"
+image: becky_lane.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Becky grew up in Traverse City, MI, and later chose to attend Northern Michigan University to pole vault while majoring in Environmental Studies and Sustainability, with a minor in Wildlife Conservation Law. After serving as an on-call wildland firefighter with the Michigan Department of Natural Resources (DNR), Becky developed an interest in pursuing a career in fire ecology. Becky joined CDL because Randy became her GIS mentor for her capstone project, which involved identifying high-priority areas for prescribed burns in Michigan using GIS software and historical fire management data. This project serves as a tool for future fire management decision-making. Outside of school, Becky enjoys hiking, swimming, birdwatching, and climbing.  
+
