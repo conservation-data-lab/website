@@ -2,7 +2,7 @@
 title: "Refreshing the CDL Website"
 description: "Building a new website with Quarto, R, blog posts a new logo and an updated look"
 author: "Randy Swaty"
-date: "2025-02-28"
+date: "2025-05-28"
 image: cdl_logo_full.jpg
 draft: false
 categories:

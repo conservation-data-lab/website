@@ -2,7 +2,7 @@
 title: "LANDFIRE Late Succession Assessment Demo"
 description: "Comparing historical vs. current amounts of late succession habitat in coastal Oregon"
 author: "Mary Kelly"
-date: "2025-02-28"
+date: "2025-06-01"
 image: ref_cur_late.jpg
 draft: false
 categories:

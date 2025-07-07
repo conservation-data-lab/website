@@ -1,0 +1,17 @@
+---
+title: "Mollie Haremza"
+sortby: "1"
+subtitle: "Member"
+image: mollie_haremza.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Mollie is an undergraduate in biology at Northern Michigan University, where she is also the founder and president of the entomology club, the outreach coordinator for the NMU EcoReps and is currently working at the University of Florida through the Research Experience for Undergraduates program.  With the CDL she is currently using R, iNaturalist data and GIS to explore Land Type Association polygons developed by the US Forest Service She is passionate about insects, GIS and gaining a deeper understanding of all things ecology.  In her spare time you can find her outside boating, turning over logs for invertebrates and hiking.
+

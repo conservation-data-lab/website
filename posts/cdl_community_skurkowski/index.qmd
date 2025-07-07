@@ -2,7 +2,7 @@
 title: "Creating a space for learning and community"
 description: "Exploring the welcoming community of the CDL"
 author: "Sam Kurkowski"
-date: "2025-02-28"
+date: "2025-06-21"
 image: sam_randy.jpg
 draft: false
 categories:

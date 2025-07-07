@@ -2,7 +2,7 @@
 title: "Developing a Harvest Suitability Model"
 description: "Using ArcGIS Pro and LANDFIRE data to map potential hardwood harvest locations"
 author: "Keith Phelps and Garrett Knowlton"
-date: "2025-02-28"
+date: "2025-06-08"
 image: map.jpg
 draft: false
 categories:
