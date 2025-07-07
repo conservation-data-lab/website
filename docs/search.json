@@ -7,88 +7,60 @@
     "text": "Inspired by a new logo by Chloe Walimaa, and driven by a desire to modernize and simplify we have updated our website! Both websites were built using R, with content stored on GitHub then published on Netlify. Additionally, both websites are member and project focused. However, our older website was unecessarily complex to maintain, and had zero design components outside of the Wowchemy Academic template. To update our site we:\n\nUsed a simple Quarto website format, with the flatly theme\nWrote some minimal .css (cascading style sheets) for minor customizing\nAdded this Blog page\nLeaned on the new logo and a few additional style components developed by Chloe\n\nBecause of the simplicity it will be easier for mentors and co-leads to help maintain and add content, more staightforward to troubleshoot and because of all of that, more lively.\nWe were inspired by a couple of websites including:\n\nhttps://silviacanelon.com/ by Dr. Silvia Canelon (who kindly provided permission to use her website as a template)\nhttps://affcom.ku.edu/ by Dr. Jeffry Girard\n\nBoth of the authors have made their repos public, for which we are grateful! We will be doing the same soon in hopes of helping others.\nWe hope you like our new site and hope to hear from you!"
   },
   {
-    "objectID": "posts/keweenaw_harvest/index.html",
-    "href": "posts/keweenaw_harvest/index.html",
-    "title": "Developing a Harvest Suitability Model",
+    "objectID": "posts/late_succession/index.html",
+    "href": "posts/late_succession/index.html",
+    "title": "LANDFIRE Late Succession Assessment Demo",
     "section": "",
-    "text": "CDL mentors Keith Phelps and Garrett Knowlton created maps and a small written report for The Nature Conservancy TNC in Michigan to identify areas for potential forest harvest using LANDFIRE data. To identify suitable areas we used ArcGIS model builder to build quick suitability maps that could be edited on the fly with TNC staff. This worked well to edit suitability “rules” quickly while meeting with project partners. Model parameters included setting common numeric scales for Existing Vegetation Type (EVT), Existing Vegetation Cover (EVC), and Existing Vegetation Height (EVH). These separate layers were all combined using a weighted sum and weighted overlay to get two final model results– one with continuous and one with discrete data. In addition, a third map was created to map recently disturbed areas to do quick visual model validations. TNC will use these results to validate modeled maps with on-the-ground surveys and to create forest management plans for the Keewenaw Heartland Forest project."
+    "text": "The goal of this project was to explore the use of LANDFIRE data to assess late-successional habitat in coastal Oregon. I mapped the historical ecosystems, estimated amounts of pre-settlement late-succession habitat, and compared the historical to current amounts. The project culminated in a presentation at the Society for Conservation GIS conference, a website, and integration of the methods into an Environmental Impact Statement for the US Forest Service.\nGenerally, I had success in working with the Biophysical Settings (historical) and Succession Classes (current) data. The main challenges came with working through the methodology, since this type of work had never been done before. Randy and his TNC colleagues, as well as various GIS/R help forums, were incredibly helpful in getting over the bumps. Because of this project, I gained skills in R, GIS, and website development, and became more interested in terrestrial ecosystems.\nThis project was pivotal to my growth in technical areas such as coding, spatial analysis, and presenting research. Since completing the project, I’ve tried to center forests in my independent class projects and portfolio development while in grad school."
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "conservationdatalab.org",
+    "objectID": "posts/cdl_community_skurkowski/index.html",
+    "href": "posts/cdl_community_skurkowski/index.html",
+    "title": "Creating a space for learning and community",
     "section": "",
-    "text": "Founder, co-lead\n\n\n\n\n\n\n\nNo matching items"
+    "text": "For me, one of the most special things about CDL is the community and culture it has created. I joined CDL over 3 years ago during grad school as a place to build coding skills and meet others trying to do the same. I was immediately welcomed in without judgement of my skills (or lack of them) and encouraged to leap into learning, try new things, and fail! I knew any challenges I came up against, I would be supported by kind and curious people with a broad enough range of expertise to help me answer any questions I had. And if no one knew, we would figure it out together. It was extremely comforting to know people had my back, especially in the midst of the black hole of learning and struggling that is graduate school.\nAs I finished school, it was so nice to have friends in natural resources and science that could look over application materials and offer career advice and support. While this kind of skill building is not as direct as coding or mapping in GIS, helping early career people navigate the job market and build skills that will get them jobs (such as resume writing, public speaking, or networking) is a key part of CDL’s mission. CDL does an excellent job supporting whole people in their education, careers, hobbies, and personal lives. It is an anything goes space where people get to bring whatever they may want to share and are met where they are with whole hearted enthusiasm.\nOver time, projects fell out of reach for me as my personal and professional life occupied all of my time and energy. That ultimately didn’t matter! I’ve continued to be part of CDL because of the community I feel here, and I have truly enjoyed getting to help others learn and build skills instead of working on my own. I look forward to getting to know each new member who joins us and building deeper friendships with those I’ve had the pleasure of knowing for longer. It’s a big, rough world out there, and its great to have people in your corner."
   },
   {
-    "objectID": "people.html#leads",
-    "href": "people.html#leads",
-    "title": "conservationdatalab.org",
-    "section": "",
-    "text": "Founder, co-lead\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#co-leads",
-    "href": "people.html#co-leads",
-    "title": "conservationdatalab.org",
-    "section": "Co-Leads",
-    "text": "Co-Leads\n\n\n\n\n\n\n\n\n\n\nMary Kelly\n\n\nProjects Manager\n\n\n\n\n\n\n\n\n\n\n\n\n\nRachel Meier\n\n\nThought partner\n\n\n\n\n\n\n\n\n\n\n\n\n\nSam Kurkowski\n\n\nMember Support\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#mentors",
-    "href": "people.html#mentors",
-    "title": "conservationdatalab.org",
-    "section": "Mentors",
-    "text": "Mentors\n\n\n\n\n\n\n\n\n\n\nEmily Mydlowski\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\nErin Matula\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\nGarrett Knowlton\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsabel Nykamp\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\nKeith Phelps\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\nMyles Walimaa\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobyn Holmes\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\nStacey Marion\n\n\nMentor\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#members",
-    "href": "people.html#members",
-    "title": "conservationdatalab.org",
-    "section": "Members",
-    "text": "Members\n\n\n\n\n\n\n\n\n\n\nBecky Lane\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarson Freitag\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiego Schillachi\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nEleanor Gagnon\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmily Chrostowski\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nEva Legge\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nHalle Johnson\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nErick Joel Pimienta Tovar\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatie Bell\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nKelly Ahern\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichaela Cooney\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nSilas Pickhardt\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\n\nWillow Brookhouse\n\n\nMember\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "conservationdatalab.org",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n\nCeleste Basken\nCassie Begert\nAbril Belgara Andrew\nScott Benhart\nCole Bonino\nBrandon Caltrider\nCassidy Downing\nChris Eckerson\nMathurin Gagnon\nAndy Harrison\nRobyn Holmes\nBraden Kelsey\nLea Kemle\nRhayna Lillie\n\n\n\nEmma Lusting\nStacey Marion\nAlex Mezera\nAvery Merrit\nJulia Olsen\nLaura Roncal\nLaura Slavsky\nCassie Stitzman\nAlice Stoff\nMaddie Tango\nBeth Teeters\nMyles Walimaa\nGavin White\nAnna Wright"
-  },
-  {
-    "objectID": "people/mentors/robyn_holmes.html#biography",
-    "href": "people/mentors/robyn_holmes.html#biography",
-    "title": "Robyn Holmes",
+    "objectID": "people/mentors/stacey_marion.html#biography",
+    "href": "people/mentors/stacey_marion.html#biography",
+    "title": "Stacey Marion",
     "section": "Biography",
-    "text": "Biography\nI love all things water science, but I’m especially interested in the ecohydrology of rivers and streams. Water is fascinating to me due to all the connected processes it’s involved in. My favorite way to learn about hydrologic systems is though firsthand observation out in the field but I also really enjoy the problem solving involved with modeling and remote sensing. I also love doing art connected to the science I am working on or interested in and communicating water science topics to a general audience (learn more about this at my website: watercyclecolors.com). My CDL project is using high resolution remote sensing to investigate at the impact of beavers on riparian vegetation post-wildfire. When not doing water science, you can usually find me outdoors (near water, probably) or making things (sewing, painting, cooking, etc.). Currently a Monitoring Crew Lead at Anabranch Solutions\nAlso see me at:\nInstagram\nLinkedIn\nwatercyclecolors.com"
+    "text": "Biography\nStacey is an ecologist on a mission to advance conservation and land use projects using spatial analysis and visualization. She was raised in northern Connecticut where she was incredibly fortunate to grow up adjacent to a protected wetland, i.e. “the wet area”, that backed up to foothills of the Farmington Valley rift. Her early experiences bounding on tussock sedges, searching for salamanders under logs, taking spring ephemeral and rhododendron walks, and racing her sister up the ridge had a lasting imprint on her personal and professional life.\nEarly in her career she pursued organic farming and agricultural sciences, a pursuit that brought her from upstate New York to Madison, Wisconsin. After working in agricultural sciences, she was pulled back by the allure of natural plant communities and transitioned to a career in ecological restoration.\nAs a Restoration Ecologist, she developed and implemented science-based ecological restoration in southwest Wisconsin, where she developed an intimate relationship with the land, especially prairies, wetlands, and woodlands. She was a Board member on the Wisconsin Prescribed Fire Council where she helped implement prescribed fire-related policy.\nIn advancing her GIS, programming, and design skills through an M.S. in GIS and Cartography at UW-Madison (2021), she now explores human-land use interactions from a geographer’s view. She currently works as a GIS Analyst at HDR, Inc. in Seattle, Washington. She ultimately hopes to inform conservation policy through analytics and science communication.\nShe currently lives in North Bend, Washington where she spends her time outside of work on the trails running, skiing, or simply enjoying the awe of nature.\nLink to resume: http://staceymarion.com/index.html"
   },
   {
-    "objectID": "people/mentors/keith_phelps.html#biography",
-    "href": "people/mentors/keith_phelps.html#biography",
-    "title": "Keith Phelps",
+    "objectID": "people/mentors/myles_walimaa.html#biography",
+    "href": "people/mentors/myles_walimaa.html#biography",
+    "title": "Myles Walimaa",
     "section": "Biography",
-    "text": "Biography\nKeith Phelps was born in St. Paul, MN and gained an appreciation for forests growing up exploring the banks of the Mississippi River and canoeing in the Boundary Waters. After graduating from UW Madison in History and Environmental Studies, Keith worked in the private sector of ecological restoration in the greater Madison and Driftless Region of WI. Here he gained an appreciation for plant conservation, prescribed fire, invasive species management, and urban restoration projects. After working in the UW-Arboretum Longnecker Horticultural gardens, Keith received his MS in Forest Resources at Clemson University. His research focused on developing GIS land suitability models for mechanized timber harvesting and prescribed fire restoration in the Southern Blue Ridge Escarpment of SC. Following completion of his Master’s degree Keith focused on ecological restoration and wetland delineation/determination in Mt. Horeb, WI and continues to research forest restoration and management with GIS applications. Recently, Keith began work as a WOrking Lands Forestry Educator with the Wisconsin Natural Resources Institute of the University of Wisconsin Extension program.\nIn his free time, Keith enjoys running, making music, writing poetry, and going for hikes in the Baraboo Hills of WI."
+    "text": "Biography\n“Growing up in the Great Lakes state, freshwater seas were a significant part of my upbringing. Most of my life was spent learning and exploring just outside of Detroit, MI. Though, my parents took my sister and I camping “up north” every summer where we were able to play in the forests and on the beaches. After obtaining my Associate’s degree in audio production, my dream of working in a recording studio shifted to a passion of exploring the natural world. Therefore, I moved to Marquette, MI, to the fresh coast of Lake Superior to begin my studies.\nIn Marquette, I picked up many outdoor hobbies, such as rock climbing, surfing, snowboarding, bikepacking, scuba diving, and sailing. Today, I spend my time climbing mountains to capture vistas that few people have the luxury to see. Otherwise, I spend time in the ocean waiting for the perfect wave to ride back to the shore. When I have the opportunity to pack up my bicycle with camping gear, I hit the road on a trial of endurance and discipline. Lastly, whenever I visit Lake Superior, my sister and I take our sailboat out to spend a few days finding balance between the air and the water.”"
   },
   {
-    "objectID": "people/mentors/garrett_knowlton.html#biography",
-    "href": "people/mentors/garrett_knowlton.html#biography",
-    "title": "Garrett Knowlton",
+    "objectID": "people/mentors/isabel_nykamp.html#biography",
+    "href": "people/mentors/isabel_nykamp.html#biography",
+    "title": "Isabel Nykamp",
     "section": "Biography",
-    "text": "Biography\nI am broadly interested in landscape ecology, ecological modeling, and climate change science and adaptation. Through my research, I hope to help communities, managers, and ecosystems adapt to a changing planet. My research at UW-Madison will broadly focus on modeling future forest landscapes in the northern Rocky Mountains and the implications of changing forests for conservation and biodiversity.\nIn my free time I enjoy riding bicycles, fly fishing, spending time on the water in my kayak or canoe, and birding. I also enjoy live music and learning how to cook new things."
+    "text": "Biography\nIsabel, also known as Izzy, was born and raised in Western Michigan. Growing up immersed in wooded habitats and surrounded by striking water bodies, she fell in love with Michigan’s aquatic habitats. She graduated from Calvin University of Grand Rapids in December of 2022 with honors and is now pursuing a masters degree through the Harte Research Institute at Texas A&M University-Corpus Christi. In her free time, Izzy likes to explore new trails, knit, read, and get coffee with friends.\nLearn more at https://www.linkedin.com/in/isabel-latvaitis-nykamp-5344b8201/"
   },
   {
-    "objectID": "people/mentors/emily_mydlowski.html#biography",
-    "href": "people/mentors/emily_mydlowski.html#biography",
-    "title": "Emily Mydlowski",
+    "objectID": "people/mentors/erin_matula.html#biography",
+    "href": "people/mentors/erin_matula.html#biography",
+    "title": "Erin Matula",
     "section": "Biography",
-    "text": "Biography\nEmily moved to Michigan’s Upper Peninsula in 2012 for college and fell in love with Lake Superior. Throughout her undergraduate career Emily was a McNair Scholar, president of Sun and Pine Nature Club, and an active participant of the Minnesota Dragonfly Society. As a Master’s student, Emily enjoyed teaching biology labs to undergraduate students and spent many, many hours peering through a microscope wrangling rotifers. Emily worked for The National Park Service as biological science and fisheries technicians at Isle Royale National Park for three summer seasons. For her doctoral work, Emily is investigating the impacts of moose browse and wildfire on soil and vegetation communities at Isle Royale National Park. Another component of her work will include using GIS to examine the role insect pests (e.g., spruce budworm and satin moth) play in the disturbance regime at Isle Royale.\nWhen she is not working on academic projects, she loves self-propelled long distance travel (thru hiking, paddling big miles by canoe), spending mornings in the kitchen baking for a crowd, time with her cat Meera, and playing cribbage with her partner Dan."
+    "text": "Biography\nErin is a wild person born and raised in the middle of the woods whose upbringing fuels her inspiration for learning about the natural world around her. Currently, she is in her senior year of undergrad and making moves towards a graduate degree. With the Nature Conservancy, she has an internship exploring LANDFIRE data and its applications across the country. Recently earned her Master’s degree in wetland dynamics at Trent University."
   },
   {
-    "objectID": "people/members/silas_pickhardt.html#biography",
-    "href": "people/members/silas_pickhardt.html#biography",
-    "title": "Silas Pickhardt",
+    "objectID": "people/members/willow_brookhouse.html#biography",
+    "href": "people/members/willow_brookhouse.html#biography",
+    "title": "Willow Brookhouse",
     "section": "Biography",
-    "text": "Biography\nSilas grew up in Madison, Wisconsin and moved to Marquette, Michigan in the fall of 2021 to pursue a degree in Fisheries and Wildlife Management at Northern Michigan University. After an internship with Oregon State University in the summer of 2023, he hopes to point his career in the direction of forestry in the coming years. He was introduced to the CDL after a short impromptu meeting with Randy. Outside of his career pursuit, Silas spends lots of time outside climbing, surfing, hiking and enjoys playing guitar as well."
+    "text": "Biography\nWillow is from Grand Rapids, Michigan, and has loved the outside for as long as she can remember. She has gone on countless hikes on Kent Trails, where she developed an understanding of riverine ecosystems. After spending a year at Grand Rapids Community College, she went north, where she currently attends Northern Michigan University as a Environmental Science Major, with a concentration in Natural Resources, and a double minor in Biology and GIS. She reached out to join the CDL to work on wildfire research and use GIS, where she continues to learn new things, and is excited to get more involved in CDL research.\nInterests: GIS, Ecology, Hiking, Plants, Soils, Fire ecology, Forestry, Legos, and Reading  Past/current education: B.S. in Environmental Sciences at Northern Michigan University\nResume"
+  },
+  {
+    "objectID": "people/members/mollie_haremza.html#biography",
+    "href": "people/members/mollie_haremza.html#biography",
+    "title": "Mollie Haremza",
+    "section": "Biography",
+    "text": "Biography\nMollie is an undergraduate in biology at Northern Michigan University, where she is also the founder and president of the entomology club, the outreach coordinator for the NMU EcoReps and is currently working at the University of Florida through the Research Experience for Undergraduates program. With the CDL she is currently using R, iNaturalist data and GIS to explore Land Type Association polygons developed by the US Forest Service She is passionate about insects, GIS and gaining a deeper understanding of all things ecology. In her spare time you can find her outside boating, turning over logs for invertebrates and hiking."
   },
   {
     "objectID": "people/members/kelly_ahern.html#biography",
@@ -193,7 +165,7 @@
     "href": "blog.html",
     "title": "conservationdatalab.org",
     "section": "",
-    "text": "Creating a space for learning and community\n\n\n\n\n\n\nprojects\n\n\n\nExploring the welcoming community of the CDL\n\n\n\n\n\nFeb 28, 2025\n\n\nSam Kurkowski\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping a Harvest Suitability Model\n\n\n\n\n\n\nprojects\n\n\n\nUsing ArcGIS Pro and LANDFIRE data to map potential hardwood harvest locations\n\n\n\n\n\nFeb 28, 2025\n\n\nKeith Phelps and Garrett Knowlton\n\n\n\n\n\n\n\n\n\n\n\n\nLANDFIRE Late Succession Assessment Demo\n\n\n\n\n\n\nprojects\n\n\n\nComparing historical vs. current amounts of late succession habitat in coastal Oregon\n\n\n\n\n\nFeb 28, 2025\n\n\nMary Kelly\n\n\n\n\n\n\n\n\n\n\n\n\nRefreshing the CDL Website\n\n\n\n\n\n\nprojects\n\n\n\nBuilding a new website with Quarto, R, blog posts a new logo and an updated look\n\n\n\n\n\nFeb 28, 2025\n\n\nRandy Swaty\n\n\n\n\n\n\nNo matching items"
+    "text": "Meeting Becky Lane\n\n\n\nprojects\n\n\n\nExploring Michigan’s Historical Fire Regimes\n\n\n\n\n\nJul 7, 2025\n\n\nRandy Swaty\n\n\n\n\n\n\n\n\n\n\n\n\nCreating a space for learning and community\n\n\n\nprojects\n\n\n\nExploring the welcoming community of the CDL\n\n\n\n\n\nJun 21, 2025\n\n\nSam Kurkowski\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping a Harvest Suitability Model\n\n\n\nprojects\n\n\n\nUsing ArcGIS Pro and LANDFIRE data to map potential hardwood harvest locations\n\n\n\n\n\nJun 8, 2025\n\n\nKeith Phelps and Garrett Knowlton\n\n\n\n\n\n\n\n\n\n\n\n\nLANDFIRE Late Succession Assessment Demo\n\n\n\nprojects\n\n\n\nComparing historical vs. current amounts of late succession habitat in coastal Oregon\n\n\n\n\n\nJun 1, 2025\n\n\nMary Kelly\n\n\n\n\n\n\n\n\n\n\n\n\nRefreshing the CDL Website\n\n\n\nprojects\n\n\n\nBuilding a new website with Quarto, R, blog posts a new logo and an updated look\n\n\n\n\n\nMay 28, 2025\n\n\nRandy Swaty\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "notes_tasks_feedback_etc.html",
@@ -266,52 +238,94 @@
     "text": "Biography\nI am a final year undergraduate completing a degree in Physical Geography and International Relations from the University of St Andrews/University of Michigan, Ann Arbor. With my degree and professional experience I have focused on the intersection of geospatial analysis and policy, particularly where GIS and remote sensing can improve on existing data and devise new ways of visualizing pressing global and local concerns such as the effects of climate change. Currently I am finalizing a dissertation using remote sensing techniques to examine the land use change and population displacement effects of large-scale land acquisitions in Madagascar. When not deep in research and essays, I can variously be found salsa-ing or slogging up a Scottish hill. But kayaking ultimately has my heart and the past three summers have all been spent on Lake Superior, paddling in one capacity or another."
   },
   {
-    "objectID": "people/members/willow_brookhouse.html#biography",
-    "href": "people/members/willow_brookhouse.html#biography",
-    "title": "Willow Brookhouse",
+    "objectID": "people/members/silas_pickhardt.html#biography",
+    "href": "people/members/silas_pickhardt.html#biography",
+    "title": "Silas Pickhardt",
     "section": "Biography",
-    "text": "Biography\nWillow is from Grand Rapids, Michigan, and has loved the outside for as long as she can remember. She has gone on countless hikes on Kent Trails, where she developed an understanding of riverine ecosystems. After spending a year at Grand Rapids Community College, she went north, where she currently attends Northern Michigan University as a Environmental Science Major, with a concentration in Natural Resources, and a double minor in Biology and GIS. She reached out to join the CDL to work on wildfire research and use GIS, where she continues to learn new things, and is excited to get more involved in CDL research.\nInterests: GIS, Ecology, Hiking, Plants, Soils, Fire ecology, Forestry, Legos, and Reading  Past/current education: B.S. in Environmental Sciences at Northern Michigan University\nResume"
+    "text": "Biography\nSilas grew up in Madison, Wisconsin and moved to Marquette, Michigan in the fall of 2021 to pursue a degree in Fisheries and Wildlife Management at Northern Michigan University. After an internship with Oregon State University in the summer of 2023, he hopes to point his career in the direction of forestry in the coming years. He was introduced to the CDL after a short impromptu meeting with Randy. Outside of his career pursuit, Silas spends lots of time outside climbing, surfing, hiking and enjoys playing guitar as well."
   },
   {
-    "objectID": "people/mentors/erin_matula.html#biography",
-    "href": "people/mentors/erin_matula.html#biography",
-    "title": "Erin Matula",
+    "objectID": "people/mentors/emily_mydlowski.html#biography",
+    "href": "people/mentors/emily_mydlowski.html#biography",
+    "title": "Emily Mydlowski",
     "section": "Biography",
-    "text": "Biography\nErin is a wild person born and raised in the middle of the woods whose upbringing fuels her inspiration for learning about the natural world around her. Currently, she is in her senior year of undergrad and making moves towards a graduate degree. With the Nature Conservancy, she has an internship exploring LANDFIRE data and its applications across the country. Recently earned her Master’s degree in wetland dynamics at Trent University."
+    "text": "Biography\nEmily moved to Michigan’s Upper Peninsula in 2012 for college and fell in love with Lake Superior. Throughout her undergraduate career Emily was a McNair Scholar, president of Sun and Pine Nature Club, and an active participant of the Minnesota Dragonfly Society. As a Master’s student, Emily enjoyed teaching biology labs to undergraduate students and spent many, many hours peering through a microscope wrangling rotifers. Emily worked for The National Park Service as biological science and fisheries technicians at Isle Royale National Park for three summer seasons. For her doctoral work, Emily is investigating the impacts of moose browse and wildfire on soil and vegetation communities at Isle Royale National Park. Another component of her work will include using GIS to examine the role insect pests (e.g., spruce budworm and satin moth) play in the disturbance regime at Isle Royale.\nWhen she is not working on academic projects, she loves self-propelled long distance travel (thru hiking, paddling big miles by canoe), spending mornings in the kitchen baking for a crowd, time with her cat Meera, and playing cribbage with her partner Dan."
   },
   {
-    "objectID": "people/mentors/isabel_nykamp.html#biography",
-    "href": "people/mentors/isabel_nykamp.html#biography",
-    "title": "Isabel Nykamp",
+    "objectID": "people/mentors/garrett_knowlton.html#biography",
+    "href": "people/mentors/garrett_knowlton.html#biography",
+    "title": "Garrett Knowlton",
     "section": "Biography",
-    "text": "Biography\nIsabel, also known as Izzy, was born and raised in Western Michigan. Growing up immersed in wooded habitats and surrounded by striking water bodies, she fell in love with Michigan’s aquatic habitats. She graduated from Calvin University of Grand Rapids in December of 2022 with honors and is now pursuing a masters degree through the Harte Research Institute at Texas A&M University-Corpus Christi. In her free time, Izzy likes to explore new trails, knit, read, and get coffee with friends.\nLearn more at https://www.linkedin.com/in/isabel-latvaitis-nykamp-5344b8201/"
+    "text": "Biography\nI am broadly interested in landscape ecology, ecological modeling, and climate change science and adaptation. Through my research, I hope to help communities, managers, and ecosystems adapt to a changing planet. My research at UW-Madison will broadly focus on modeling future forest landscapes in the northern Rocky Mountains and the implications of changing forests for conservation and biodiversity.\nIn my free time I enjoy riding bicycles, fly fishing, spending time on the water in my kayak or canoe, and birding. I also enjoy live music and learning how to cook new things."
   },
   {
-    "objectID": "people/mentors/myles_walimaa.html#biography",
-    "href": "people/mentors/myles_walimaa.html#biography",
-    "title": "Myles Walimaa",
+    "objectID": "people/mentors/keith_phelps.html#biography",
+    "href": "people/mentors/keith_phelps.html#biography",
+    "title": "Keith Phelps",
     "section": "Biography",
-    "text": "Biography\n“Growing up in the Great Lakes state, freshwater seas were a significant part of my upbringing. Most of my life was spent learning and exploring just outside of Detroit, MI. Though, my parents took my sister and I camping “up north” every summer where we were able to play in the forests and on the beaches. After obtaining my Associate’s degree in audio production, my dream of working in a recording studio shifted to a passion of exploring the natural world. Therefore, I moved to Marquette, MI, to the fresh coast of Lake Superior to begin my studies.\nIn Marquette, I picked up many outdoor hobbies, such as rock climbing, surfing, snowboarding, bikepacking, scuba diving, and sailing. Today, I spend my time climbing mountains to capture vistas that few people have the luxury to see. Otherwise, I spend time in the ocean waiting for the perfect wave to ride back to the shore. When I have the opportunity to pack up my bicycle with camping gear, I hit the road on a trial of endurance and discipline. Lastly, whenever I visit Lake Superior, my sister and I take our sailboat out to spend a few days finding balance between the air and the water.”"
+    "text": "Biography\nKeith Phelps was born in St. Paul, MN and gained an appreciation for forests growing up exploring the banks of the Mississippi River and canoeing in the Boundary Waters. After graduating from UW Madison in History and Environmental Studies, Keith worked in the private sector of ecological restoration in the greater Madison and Driftless Region of WI. Here he gained an appreciation for plant conservation, prescribed fire, invasive species management, and urban restoration projects. After working in the UW-Arboretum Longnecker Horticultural gardens, Keith received his MS in Forest Resources at Clemson University. His research focused on developing GIS land suitability models for mechanized timber harvesting and prescribed fire restoration in the Southern Blue Ridge Escarpment of SC. Following completion of his Master’s degree Keith focused on ecological restoration and wetland delineation/determination in Mt. Horeb, WI and continues to research forest restoration and management with GIS applications. Recently, Keith began work as a WOrking Lands Forestry Educator with the Wisconsin Natural Resources Institute of the University of Wisconsin Extension program.\nIn his free time, Keith enjoys running, making music, writing poetry, and going for hikes in the Baraboo Hills of WI."
   },
   {
-    "objectID": "people/mentors/stacey_marion.html#biography",
-    "href": "people/mentors/stacey_marion.html#biography",
-    "title": "Stacey Marion",
+    "objectID": "people/mentors/robyn_holmes.html#biography",
+    "href": "people/mentors/robyn_holmes.html#biography",
+    "title": "Robyn Holmes",
     "section": "Biography",
-    "text": "Biography\nStacey is an ecologist on a mission to advance conservation and land use projects using spatial analysis and visualization. She was raised in northern Connecticut where she was incredibly fortunate to grow up adjacent to a protected wetland, i.e. “the wet area”, that backed up to foothills of the Farmington Valley rift. Her early experiences bounding on tussock sedges, searching for salamanders under logs, taking spring ephemeral and rhododendron walks, and racing her sister up the ridge had a lasting imprint on her personal and professional life.\nEarly in her career she pursued organic farming and agricultural sciences, a pursuit that brought her from upstate New York to Madison, Wisconsin. After working in agricultural sciences, she was pulled back by the allure of natural plant communities and transitioned to a career in ecological restoration.\nAs a Restoration Ecologist, she developed and implemented science-based ecological restoration in southwest Wisconsin, where she developed an intimate relationship with the land, especially prairies, wetlands, and woodlands. She was a Board member on the Wisconsin Prescribed Fire Council where she helped implement prescribed fire-related policy.\nIn advancing her GIS, programming, and design skills through an M.S. in GIS and Cartography at UW-Madison (2021), she now explores human-land use interactions from a geographer’s view. She currently works as a GIS Analyst at HDR, Inc. in Seattle, Washington. She ultimately hopes to inform conservation policy through analytics and science communication.\nShe currently lives in North Bend, Washington where she spends her time outside of work on the trails running, skiing, or simply enjoying the awe of nature.\nLink to resume: http://staceymarion.com/index.html"
+    "text": "Biography\nI love all things water science, but I’m especially interested in the ecohydrology of rivers and streams. Water is fascinating to me due to all the connected processes it’s involved in. My favorite way to learn about hydrologic systems is though firsthand observation out in the field but I also really enjoy the problem solving involved with modeling and remote sensing. I also love doing art connected to the science I am working on or interested in and communicating water science topics to a general audience (learn more about this at my website: watercyclecolors.com). My CDL project is using high resolution remote sensing to investigate at the impact of beavers on riparian vegetation post-wildfire. When not doing water science, you can usually find me outdoors (near water, probably) or making things (sewing, painting, cooking, etc.). Currently a Monitoring Crew Lead at Anabranch Solutions\nAlso see me at:\nInstagram\nLinkedIn\nwatercyclecolors.com"
   },
   {
-    "objectID": "posts/cdl_community_skurkowski/index.html",
-    "href": "posts/cdl_community_skurkowski/index.html",
-    "title": "Creating a space for learning and community",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "conservationdatalab.org",
     "section": "",
-    "text": "For me, one of the most special things about CDL is the community and culture it has created. I joined CDL over 3 years ago during grad school as a place to build coding skills and meet others trying to do the same. I was immediately welcomed in without judgement of my skills (or lack of them) and encouraged to leap into learning, try new things, and fail! I knew any challenges I came up against, I would be supported by kind and curious people with a broad enough range of expertise to help me answer any questions I had. And if no one knew, we would figure it out together. It was extremely comforting to know people had my back, especially in the midst of the black hole of learning and struggling that is graduate school.\nAs I finished school, it was so nice to have friends in natural resources and science that could look over application materials and offer career advice and support. While this kind of skill building is not as direct as coding or mapping in GIS, helping early career people navigate the job market and build skills that will get them jobs (such as resume writing, public speaking, or networking) is a key part of CDL’s mission. CDL does an excellent job supporting whole people in their education, careers, hobbies, and personal lives. It is an anything goes space where people get to bring whatever they may want to share and are met where they are with whole hearted enthusiasm.\nOver time, projects fell out of reach for me as my personal and professional life occupied all of my time and energy. That ultimately didn’t matter! I’ve continued to be part of CDL because of the community I feel here, and I have truly enjoyed getting to help others learn and build skills instead of working on my own. I look forward to getting to know each new member who joins us and building deeper friendships with those I’ve had the pleasure of knowing for longer. It’s a big, rough world out there, and its great to have people in your corner."
+    "text": "Founder, co-lead\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/late_succession/index.html",
-    "href": "posts/late_succession/index.html",
-    "title": "LANDFIRE Late Succession Assessment Demo",
+    "objectID": "people.html#leads",
+    "href": "people.html#leads",
+    "title": "conservationdatalab.org",
     "section": "",
-    "text": "The goal of this project was to explore the use of LANDFIRE data to assess late-successional habitat in coastal Oregon. I mapped the historical ecosystems, estimated amounts of pre-settlement late-succession habitat, and compared the historical to current amounts. The project culminated in a presentation at the Society for Conservation GIS conference, a website, and integration of the methods into an Environmental Impact Statement for the US Forest Service.\nGenerally, I had success in working with the Biophysical Settings (historical) and Succession Classes (current) data. The main challenges came with working through the methodology, since this type of work had never been done before. Randy and his TNC colleagues, as well as various GIS/R help forums, were incredibly helpful in getting over the bumps. Because of this project, I gained skills in R, GIS, and website development, and became more interested in terrestrial ecosystems.\nThis project was pivotal to my growth in technical areas such as coding, spatial analysis, and presenting research. Since completing the project, I’ve tried to center forests in my independent class projects and portfolio development while in grad school."
+    "text": "Founder, co-lead\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#co-leads",
+    "href": "people.html#co-leads",
+    "title": "conservationdatalab.org",
+    "section": "Co-Leads",
+    "text": "Co-Leads\n\n\n\n\n\n\n\n\n\n\nMary Kelly\n\n\nProjects Manager\n\n\n\n\n\n\n\n\n\n\n\n\nRachel Meier\n\n\nThought partner\n\n\n\n\n\n\n\n\n\n\n\n\nSam Kurkowski\n\n\nMember Support\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#mentors",
+    "href": "people.html#mentors",
+    "title": "conservationdatalab.org",
+    "section": "Mentors",
+    "text": "Mentors\n\n\n\n\n\n\n\n\n\n\nEmily Mydlowski\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\nErin Matula\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\nGarrett Knowlton\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\nIsabel Nykamp\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\nKeith Phelps\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\nMyles Walimaa\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\nRobyn Holmes\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\nStacey Marion\n\n\nMentor\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#members",
+    "href": "people.html#members",
+    "title": "conservationdatalab.org",
+    "section": "Members",
+    "text": "Members\n\n\n\n\n\n\n\n\n\n\nBecky Lane\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nCarson Freitag\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nDiego Schillachi\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nEleanor Gagnon\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nEmily Chrostowski\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nEva Legge\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nHalle Johnson\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nErick Joel Pimienta Tovar\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nKatie Bell\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nKelly Ahern\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nMichaela Cooney\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nMollie Haremza\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nSilas Pickhardt\n\n\nMember\n\n\n\n\n\n\n\n\n\n\n\n\nWillow Brookhouse\n\n\nMember\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "conservationdatalab.org",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\nCeleste Basken\nCassie Begert\nAbril Belgara Andrew\nScott Benhart\nCole Bonino\nBrandon Caltrider\nCassidy Downing\nChris Eckerson\nMathurin Gagnon\nAndy Harrison\nRobyn Holmes\nBraden Kelsey\nLea Kemle\nRhayna Lillie\n\n\n\nEmma Lusting\nStacey Marion\nAlex Mezera\nAvery Merrit\nJulia Olsen\nLaura Roncal\nLaura Slavsky\nCassie Stitzman\nAlice Stoff\nMaddie Tango\nBeth Teeters\nMyles Walimaa\nGavin White\nAnna Wright"
+  },
+  {
+    "objectID": "posts/keweenaw_harvest/index.html",
+    "href": "posts/keweenaw_harvest/index.html",
+    "title": "Developing a Harvest Suitability Model",
+    "section": "",
+    "text": "CDL mentors Keith Phelps and Garrett Knowlton created maps and a small written report for The Nature Conservancy TNC in Michigan to identify areas for potential forest harvest using LANDFIRE data. To identify suitable areas we used ArcGIS model builder to build quick suitability maps that could be edited on the fly with TNC staff. This worked well to edit suitability “rules” quickly while meeting with project partners. Model parameters included setting common numeric scales for Existing Vegetation Type (EVT), Existing Vegetation Cover (EVC), and Existing Vegetation Height (EVH). These separate layers were all combined using a weighted sum and weighted overlay to get two final model results– one with continuous and one with discrete data. In addition, a third map was created to map recently disturbed areas to do quick visual model validations. TNC will use these results to validate modeled maps with on-the-ground surveys and to create forest management plans for the Keewenaw Heartland Forest project."
+  },
+  {
+    "objectID": "posts/meet_becky_lane/index.html",
+    "href": "posts/meet_becky_lane/index.html",
+    "title": "Meeting Becky Lane",
+    "section": "",
+    "text": "Some days you just get lucky. I work in an office at Northern Michigan University, often with the door closed. Last spring there was a knock on the door from Dr. Sarah Mittlefehldt who introduced me to Becky Lane. For her senior capstone project Becky was interested in exploring the wildfire situation in Michigan, and Dr. Mittlefehldt though I might have some data and/or ideas to lend to the project. This kicked off a semester of laughs, great questions and some impressive maps.\nAt the time Becky not only competed as a pole vaulter with the track team, but also worked at the IT Helpdesk and was a full time student. With all of that going on she suggested that we meet at 7:15am on Tuesday mornings. We both may have questioned this on blizzard-y winter mornings, but these meetings were super fun and productive. Becky learned all about LANDFIRE Historical Fire Regime data, totally stretched herself to make her best maps, and always had the best work ethic and attitude possible. I learned so much about myself as well! Maybe to her dismay I learned, for example, how OCD I can be about centering map elements :). This work will contribute to spatial data planning for the Northwoods strategy of The Nature Conservancy, resulted in a great science poster and made Tuesday mornings way more fun!\nLast but not least-what did Becky find regarding historical fire regimes in Michigan? Here are a few findings:\n\nPrior to European Colonization there was an average of ~1.5M acres of fire every year\nMuch of the historical fires occured in oak ecosystems (~1M acres per year)\nMost of the fires occured in the NE region of the lower peninsula of MI with some of the areas having fires return every 10 years or less\n\nThese findings are just a few-Becky also conducted interviews and reviewed literature as part of her capstone project.\nBecky has now graduated and works for the Superior Watershed Partnership as part of the hazardous fuels reduction team, and as a stand by wildland fire fighter for the Michigan Department of Natural Resources."
   }
 ]

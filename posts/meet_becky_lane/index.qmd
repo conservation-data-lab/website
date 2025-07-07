@@ -1,0 +1,46 @@
+---
+title: "Meeting Becky Lane"
+description: "Exploring Michigan's Historical Fire Regimes"
+author: "Randy Swaty"
+date: "2025-07-07"
+image: mfri.jpg
+draft: false
+categories:
+  - projects
+format:
+  html:
+    page-layout: full
+    toc: false
+
+---
+
+
+<div class="blog-post">
+
+
+Some days you just get lucky.  I work in an office at Northern Michigan University, often with the door closed.  Last spring there was a knock on the door from [Dr. Sarah Mittlefehldt](https://nmu.edu/eegs/sarah-mittlefehldt) who introduced me to [Becky Lane](https://conservationdatalab.org/people/members/becky_lane).  For her senior capstone project Becky was interested in exploring the wildfire situation in Michigan, and Dr. Mittlefehldt though I might have some data and/or ideas to lend to the project.  This kicked off a semester of laughs, great questions and some impressive maps.
+
+At the time Becky not only competed as a pole vaulter with the track team, but also worked at the IT Helpdesk and was a full time student.  With all of that going on she suggested that we meet at 7:15am on Tuesday mornings.  We both may have questioned this on blizzard-y winter mornings, but these meetings were super fun and productive.  Becky learned all about [LANDFIRE Historical Fire Regime data](https://landfire.gov/fire-regime), totally stretched herself to make her best maps, and always had the best work ethic and attitude possible.  I learned so much about myself as well!  Maybe to her dismay I learned, for example, how OCD I can be about centering map elements :). This work will contribute to spatial data planning for the Northwoods strategy of The Nature Conservancy, resulted in a great science poster and made Tuesday mornings way more fun!
+
+Last but not least-what did Becky find regarding historical fire regimes in Michigan?  Here are a few findings:
+
+* Prior to European Colonization there was an average of ~1.5M acres of fire every year
+* Much of the historical fires occured in oak ecosystems (~1M acres per year)
+* Most of the fires occured in the NE region of the lower peninsula of MI with some of the areas having fires return every 10 years or less
+
+These findings are just a few-Becky also conducted interviews and reviewed literature as part of her capstone project.
+
+Becky has now graduated and works for the Superior Watershed Partnership as part of the hazardous fuels reduction team, and as a stand by wildland fire fighter for the Michigan Department of Natural Resources. 
+
+
+
+<br>
+<br>
+
+
+
+![](mfri.jpg){width=700}
+
+
+</div>
+
