@@ -5,7 +5,7 @@ author:
   - name: "Randy Swaty"
   - name: "Michaela Cooney"
   - name: "Mary Kelly"
-  - name: "Dr. Tayulor Ganz"
+  - name: "Dr. Taylor Ganz"
 date: "2025-08-28"
 image: migration_map.jpg
 draft: false
