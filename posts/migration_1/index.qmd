@@ -20,7 +20,6 @@ format:
 
 <div class="blog-post">
 
-Exploring Datasets That Illuminate (Or Not) Mule Deer Migration Patterns: A Best-Case Scenario CDL Project, Part 1. 
 CDL projects range from quick and easy maps, charts or reviews to web-site development that requires partner review and coordination, data analysis and cartography. While we learn and grow from each project, the best ones have a few things in common:
 
 1.	A true conservation need and/or question. We are all driven to do something useful. 
