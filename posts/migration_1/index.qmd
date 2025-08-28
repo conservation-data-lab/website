@@ -1,0 +1,46 @@
+---
+title: "Mapping Migration"
+description: "Exploring Datasets That Illuminate (Or Not) Mule Deer Migration Patterns: A Best-Case Scenario CDL Project"
+author: 
+  - name: "Randy Swaty"
+  - name: "Michaela Cooney"
+  - name: "Mary Kelly"
+  - name: "Dr. Tayulor Ganz"
+date: "2025-08-28"
+image: migration_map.jpg
+draft: false
+categories:
+  - projects
+format:
+  html:
+    page-layout: full
+    toc: false
+
+---
+
+<div class="blog-post">
+
+Exploring Datasets That Illuminate (Or Not) Mule Deer Migration Patterns: A Best-Case Scenario CDL Project, Part 1. 
+CDL projects range from quick and easy maps, charts or reviews to web-site development that requires partner review and coordination, data analysis and cartography. While we learn and grow from each project, the best ones have a few things in common:
+
+1.	A true conservation need and/or question. We are all driven to do something useful. 
+2.	A nice balance of challenge and ‘do-ability’. Admittedly, we’ve had some along the way that we simply could not figure out. 
+3.	A participating partner that not only supplies the need, but also mentorship, review and a vision. Pay doesn’t hurt either.
+
+Recently we were contacted by [Dr. Taylor Ganz](https://www.nature.org/en-us/newsroom/idaho-taylor-ganz-intro/), Director of Science for the Idaho Chapter of The Nature Conservancy. Idaho Chapter staff are working to ‘site renewables right’, i.e., figure out the best places to place renewable energy projects in terms of conservation concerns.  In this example, Dr. Ganz is looking to map potential mammal migration routes so that her team can flag those areas as lower priority for energy development. With that, a question came up: “Are there existing datasets that can help us identify those areas that are important for migration?”. 
+
+For this project, Dr. Ganz and I tapped CDL members [Michaela Cooney](https://conservationdatalab.org/people/members/michaela_cooney) for the main mapping and analysis tasks, and [Mary Kelly](https://conservationdatalab.org/people/co_leads/mary_kelly) for project management and review.  We made good choices.  Supplied with known Mule Deer migration polygons, Michaela did the GIS work to assess and visualize the relations between those polygons and vegetation and connectivity rasters. More on that in Part 2.  The main message here is that we greatly appreciate the energy and guidance provided by Dr. Ganz (and other partners with other projects too, e.g., Ryan Gauger with the Missouri Fire Needs Assessment project).  Not only has she provided payment, datasets and a vision for the project, but has also met with Michaela to demonstrate GIS techniques and is providing her opportunities to present her work.  
+
+Some say it takes a village to raise a child.  I have learned that not only is this true, but it also takes a village to ‘raise a scientist’, including myself.  When we work with partners, I learn too.  It’s been so fun watching others work with CDL members, bringing context, bigger picture reminders (‘remember to have fun and explore!’) and important perspectives.
+
+Could you, would you be a CDL partner?  If interested contact [Randy Swaty](mailto: rswaty@tnc.org)
+
+
+<br>
+<br>
+
+![](migration_map.jpg)
+
+</div>
+
+
