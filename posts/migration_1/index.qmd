@@ -7,7 +7,7 @@ author:
   - name: "Mary Kelly"
   - name: "Dr. Taylor Ganz"
 date: "2025-08-28"
-image: migration_map.jpg
+image: methow_md.jpg
 draft: false
 categories:
   - projects
@@ -38,7 +38,9 @@ Could you, would you be a CDL partner?  If interested contact [Randy Swaty](mail
 <br>
 <br>
 
-![](migration_map.jpg)
+Mule deer herd.  Photo by Dr. Taylor Ganz. 
+
+![](methow_md.jpg)
 
 </div>
 
