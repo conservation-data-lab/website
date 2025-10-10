@@ -1,0 +1,18 @@
+---
+title: "Mattea Muscat"
+sortby: "1"
+subtitle: "Member"
+image: mattea_muscat.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Mattea is in her second year at Northern Michigan University, and is working towards getting her bachelor in biology with an ecology concentration. She is treasurer for the Fisheries and Wildlife Association NMU chapter, and the Green Fund intern through EcoReps. With the CDL she is currently learning R and hopes to eventually work on a GIS project. In her spare time you can find Mattea camping, hiking, knitting, or taking care of her plants.
+
+

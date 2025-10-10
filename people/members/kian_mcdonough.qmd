@@ -1,0 +1,23 @@
+---
+title: "Kian McDonough"
+sortby: "1"
+subtitle: "Member"
+image: kian_mcdonough.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+**Interests:** Systems ecology, applied conservation issues, northern forest ecosystems, beavers!!, bogs/wetlands, vernal pools, fieldwork, scientific communication/education, back country canoeing, pottery (and all things craft!)  
+**Education:** University of Michigan, B.S. Program in the Environment, Concentrations: Terrestrial Ecology and Botany 
+
+**Bio:** 
+Growing up in the woods of the Upper Peninsula of Michigan I have always had the itch to get out and explore the forests and wetlands of northern landscapes. I grew up knowing and learning the names of the plants around me and at some point in my academic career realized I could study these systems professionally. I graduated from the University of Michigan, in 2024, with a B.S. in ecology and have been bouncing around chasing seasonal field/lab work since. I recently spent a year out in Montana, doing vegetation and soil surveys for the BLM, have worked in various labs in the off season, and am now working for a global change forest ecology project in northern Minnesota. My background is primarily in plants but I am eager to move into larger scale, systems ecology. I’m really interested in applied ecology projects that lead to direct restoration/conservation/land management action and acknowledge the humanistic sides of ecology. I thrive in fieldwork and feel most alive when I’m bushwhacking through dense undergrowth, covered in mud, and surrounded by a swarm of mosquitos. 
+
+When not thinking about ecology I can often be found paddling a canoe, playing with clay (I LOVE pottery and craft in general), playing music at old time jams, or square dancing.
+
+
