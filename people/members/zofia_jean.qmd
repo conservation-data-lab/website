@@ -1,0 +1,17 @@
+---
+title: "Zofia Jean"
+sortby: "1"
+subtitle: "Member"
+image: zofia_jean.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Zofia Jean is a junior at Northern Michigan University majoring in Environmental Science with a concentration in Natural Resources. She is from Midland, MI, where she went for walks a lot on nature trails and realized she enjoys the outdoors. Zofia spent one year studying at Delta College while in high school to quicken her studies. Zofia always am up to learn more about anything to do with nature and science. 
+

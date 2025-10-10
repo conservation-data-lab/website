@@ -1,0 +1,18 @@
+---
+title: "Hayley Smith"
+sortby: "1"
+subtitle: "Member"
+image: hayley_smith.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Hi! My background is in ecological restoration and conservation easement management. I’m particularly interested in how data and emerging technologies can help support both of those efforts. I started Sand River Partners as a way to provide my specific background and expertise to organizations that are trying to navigate these challenges. In my free time I love to read, go for walks, be outside, write, hang out with people I love, eat good food, and giggle.
+
+[hayley@sandriverpartners.com](mailto: hayley@sandriverpartners.com)

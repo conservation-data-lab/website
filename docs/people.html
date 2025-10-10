@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cc63fce9873912f1bbbccf05079cc9ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -196,7 +197,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -222,6 +223,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">conservationdatalab.org</span>
     </a>
@@ -446,23 +449,7 @@ Mentor
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1739453640103" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
-<a href="./people/mentors/myles_walimaa.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/mentors/myles_walimaa.jpg" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Myles Walimaa
-</h5>
-<div class="card-subtitle listing-subtitle">
-Mentor
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1740075672751" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1740075672751" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
 <a href="./people/mentors/robyn_holmes.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -478,7 +465,7 @@ Mentor
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1739453902323" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1739453902323" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
 <a href="./people/mentors/stacey_marion.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -614,7 +601,23 @@ Member
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1739455331363" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1760122785473" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
+<a href="./people/members/hayley_smith.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/members/hayley_smith.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hayley Smith
+</h5>
+<div class="card-subtitle listing-subtitle">
+Member
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1739455331363" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
 <a href="./people/members/joel_pimienta.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -630,7 +633,7 @@ Member
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1739455912877" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1739455912877" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
 <a href="./people/members/katie_bell.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -646,7 +649,7 @@ Member
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1739456006147" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1739456006147" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
 <a href="./people/members/kelly_ahern.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -662,7 +665,39 @@ Member
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1738951071391" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1760123225630" data-listing-reading-time-sort="2" data-listing-word-count-sort="254">
+<a href="./people/members/kian_mcdonough.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/members/kian_mcdonough.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kian McDonough
+</h5>
+<div class="card-subtitle listing-subtitle">
+Member
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1760122997695" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
+<a href="./people/members/mattea_muscat.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/members/mattea_muscat.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mattea Muscat
+</h5>
+<div class="card-subtitle listing-subtitle">
+Member
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1738951071391" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
 <a href="./people/members/michaela_cooney.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -678,7 +713,7 @@ Member
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1756387790127" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1756387790127" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
 <a href="./people/members/mollie_haremza.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -694,7 +729,7 @@ Member
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1739456100547" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1739456100547" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
 <a href="./people/members/silas_pickhardt.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -710,7 +745,7 @@ Member
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1756387790128" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
+<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1756387790128" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
 <a href="./people/members/willow_brookhouse.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -719,6 +754,22 @@ Member
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Willow Brookhouse
+</h5>
+<div class="card-subtitle listing-subtitle">
+Member
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="17" data-listing-file-modified-sort="1760122434917" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
+<a href="./people/members/zofia_jean.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/members/zofia_jean.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Zofia Jean
 </h5>
 <div class="card-subtitle listing-subtitle">
 Member
@@ -766,6 +817,7 @@ Member
 <li>Myles Walimaa</li>
 <li>Gavin White</li>
 <li>Anna Wright</li>
+<li>Myles Walimaa</li>
 </ul>
 </div>
 </div>
@@ -826,13 +878,14 @@ Member
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
