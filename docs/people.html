@@ -164,8 +164,7 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 18,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      
       searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
@@ -782,7 +781,7 @@ Member
 <a href="./people/members/silas_pickhardt.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" data-src="./people/members/silas_pickhardt.jpg" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" src="./people/members/silas_pickhardt.jpg" class="thumbnail-image card-img" style="height: 225px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -798,7 +797,7 @@ Member
 <a href="./people/members/willow_brookhouse.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" data-src="./people/members/willow_brookhouse.jpg" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" src="./people/members/willow_brookhouse.jpg" class="thumbnail-image card-img" style="height: 225px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -814,7 +813,7 @@ Member
 <a href="./people/members/zofia_jean.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" data-src="./people/members/zofia_jean.jpg" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" src="./people/members/zofia_jean.jpg" class="thumbnail-image card-img" style="height: 225px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -828,9 +827,6 @@ Member
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-<nav id="members-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
 </div>
 </section>
 <section id="alumni" class="level2">

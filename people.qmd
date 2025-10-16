@@ -35,7 +35,7 @@ listing:
     sort: sortby
     fields: [image, title, subtitle]
     grid-item-align: center
-
+    page-size: 1000
 
 ---
 
