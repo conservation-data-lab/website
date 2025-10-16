@@ -1,0 +1,23 @@
+---
+title: "Mary Hook"
+sortby: "1"
+subtitle: "Member"
+image: mary_hook.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Mary is in her first year at NMU, studying to earn a bachelor’s degree in biology, along with a minor in mathematics. Originally from Escanaba, Michigan, she aspires to work in the medical field. She is an avid lover of nature and seeker of new knowledge. By joining CDL, she hopes to have a positive impact and acquire new skills and collaborate with a team outside of a classroom setting. Her interests include exploring around the Great Lakes lakeshores, baking, swimming, and mixed-media art. She is excited to begin her journey as part of the CDL team!
+
+*Current title/status:* undergraduate student
+*Institution/employer:* Northern Michigan University student
+*Location:* Marquette, Michigan
+*Email:* mhook@nmu.edu	
+*Interests:* hiking, baking, crafting, learning, swimming, running
+*Past/current education:* Escanaba High School, Northern Michigan University

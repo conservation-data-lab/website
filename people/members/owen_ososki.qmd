@@ -1,0 +1,22 @@
+---
+title: "Owen Ososki"
+sortby: "1"
+subtitle: "Member"
+image: owen_ososki.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Owen is from Ferndale, Michigan, and moved to Marquette in 2024 to pursue a bachelor degree in Biology with a concentration in Ecology at Northern Michigan University. He is passionate about mycology and has a great interest in how fungi could aid us in ecosystem restoration. He is the president of the NMU Mycology Club, where he helps coordinate identification workshops, forays, and leads a student community of fungi-interested people. With the CDL he is currently working on learning R, strengthening his skills in GIS, and hopes to gain further knowledge and experience in research skills and programs. 
+
+In his free time, he enjoys hiking and looking for fungi, film photography, crocheting, and going to local music shows. 
+
+*Interests:* Mycology, Ecology, Ecosystem restoration, Mycorrhizal ecology, Edible mushroom cultivation, Photography, Hiking, and Crochet. 
+
+*Past/Current Education:* B.S. in Biology with a concentration in Ecology at Northern Michigan University

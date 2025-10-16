@@ -1,0 +1,17 @@
+---
+title: "Ocean Ramirez"
+sortby: "1"
+subtitle: "Member"
+image: ocean_ramirez.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Ocean is a Junior at Northern Michigan University currently working toward a Bachelor’s in Biology with a concentration in Ecology. She is involved in the university’s Fisheries and Wildlife Association, and is particularly interested in conservation work as a career. Currently, Ocean is working on learning R, with hopes to begin learning GIS in the future to work on projects. In her personal time, she enjoys reading, drawing, and hiking. 
+
