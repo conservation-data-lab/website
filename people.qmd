@@ -26,6 +26,7 @@ listing:
     fields: [image, title, subtitle]
     grid-item-align: center
     sort: sortby
+
   - id: members
     contents: "people/members/*.qmd"
     type: grid
