@@ -1,0 +1,27 @@
+---
+title: "Sam Ettenborough"
+sortby: "1"
+subtitle: "Member"
+image: sam_ettenborough.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Sam seeks to find ways to use data to make better decisions about how to protect and conserve our natural resources.
+
+Sam studied Chemistry and Computer Science at St. Michael's College in Vermont. After graduating in 2016, he moved to Jackson, WY to teach outdoor education at Teton Science Schools. A few years later, he moved to Portland, OR and began his career in water treatment starting with industrial wastewater treatment, then ultrapure water treatment, and finally drinking water.
+
+Today, Sam works as a Senior Data Analyst at 120Water where he helps public water systems around the country get lead out of their drinking water. He develops tools to build and maintain inventories, creates machine learning models to identify lead pipes, and builds software tools that help his co-workers.
+
+Sam has over 5 years of experience working in R, over 3 years of experience with Python and QGIS, and has experience with many other programming languages.
+
+When Sam is not working, he spends his time skiing, hiking, backpacking, biking, cooking, baking, and learning about urban design.
+
+
