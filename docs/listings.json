@@ -1,51 +1,38 @@
 [
   {
-    "listing": "/people.html",
-    "items": [
-      "/people/leads/randy_swaty.html",
-      "/people/co_leads/mary_kelly.html",
-      "/people/co_leads/rachel_meier.html",
-      "/people/co_leads/sam_kurkowski.html",
-      "/people/mentors/emily_mydlowski.html",
-      "/people/mentors/erin_matula.html",
-      "/people/mentors/garrett_knowlton.html",
-      "/people/mentors/isabel_nykamp.html",
-      "/people/mentors/keith_phelps.html",
-      "/people/mentors/robyn_holmes.html",
-      "/people/mentors/sam_ettenborough.html",
-      "/people/mentors/stacey_marion.html",
-      "/people/members/becky_lane.html",
-      "/people/members/carson_freitag.html",
-      "/people/members/diego_schillachi.html",
-      "/people/members/eleanor_gagnon.html",
-      "/people/members/emily_chrostowski.html",
-      "/people/members/eva_legge.html",
-      "/people/members/halle_johnson.html",
-      "/people/members/hayley_smith.html",
-      "/people/members/joel_pimienta.html",
-      "/people/members/katie_bell.html",
-      "/people/members/kelly_ahern.html",
-      "/people/members/kian_mcdonough.html",
-      "/people/members/mary_hook.html",
-      "/people/members/mattea_muscat.html",
-      "/people/members/michaela_cooney.html",
-      "/people/members/mollie_haremza.html",
-      "/people/members/ocean_ramirez.html",
-      "/people/members/owen_ososki.html",
-      "/people/members/silas_pickhardt.html",
-      "/people/members/willow_brookhouse.html",
-      "/people/members/zofia_jean.html"
-    ]
-  },
-  {
     "listing": "/blog.html",
     "items": [
+      "/posts/why_cdl_1/index.html",
       "/posts/migration_1/index.html",
       "/posts/meet_becky_lane/index.html",
       "/posts/cdl_community_skurkowski/index.html",
       "/posts/keweenaw_harvest/index.html",
       "/posts/late_succession/index.html",
       "/posts/update_website/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/leads/randy_swaty.html",
+      "/people/co_leads/rachel_meier.html",
+      "/people/co_leads/sam_kurkowski.html",
+      "/people/mentors/emily_mydlowski.html",
+      "/people/mentors/garrett_knowlton.html",
+      "/people/mentors/keith_phelps.html",
+      "/people/mentors/mary_kelly.html",
+      "/people/mentors/sam_ettenborough.html",
+      "/people/mentors/stacey_marion.html",
+      "/people/members/becky_lane.html",
+      "/people/members/diego_schillachi.html",
+      "/people/members/emily_chrostowski.html",
+      "/people/members/halle_johnson.html",
+      "/people/members/katie_bell.html",
+      "/people/members/mattea_muscat.html",
+      "/people/members/michaela_cooney.html",
+      "/people/members/mollie_haremza.html",
+      "/people/members/ocean_ramirez.html",
+      "/people/members/willow_brookhouse.html"
     ]
   }
 ]

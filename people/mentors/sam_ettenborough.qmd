@@ -1,7 +1,7 @@
 ---
 title: "Sam Ettenborough"
 sortby: "1"
-subtitle: "Member"
+subtitle: "Mentor"
 image: sam_ettenborough.jpg
 about:
   id: person-profile
