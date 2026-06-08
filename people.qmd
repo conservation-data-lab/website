@@ -70,30 +70,42 @@ listing:
 - Scott Benhart
 - Cole Bonino
 - Brandon Caltrider
+- Stacy Cotey
 - Cassidy Downing
 - Chris Eckerson
+- Carson Freitag
+- Eleanor Gagnon
 - Mathurin Gagnon
 - Andy Harrison
 - Robyn Holmes
 - Braden Kelsey
 - Lea Kemle
+- Eva Legge
 - Rhayna Lillie
+- Emma Lusting
+
 
 ::::
 
 :::: {.column width="50%"}
 
-- Emma Lusting
-- Stacey Marion
+
+- Erin Matula
+- Kian McDonough
 - Alex Mezera
 - Avery Merrit
+- Izzy Nykamp
 - Julia Olsen
+- Silas Pickhardt
 - Laura Roncal
 - Laura Slavsky
+- Hayley Smith
 - Cassie Stitzman
 - Alice Stoff
 - Maddie Tango
 - Beth Teeters
+- Erick Joel Pimienta Tovar
+- Sarah Trujillo
 - Myles Walimaa
 - Gavin White
 - Anna Wright
