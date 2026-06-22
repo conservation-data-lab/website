@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Randy Swaty">
+<meta name="dcterms.date" content="2026-06-08">
+<meta name="description" content="The CDL has always been, and always will be a bit messy and hopefully super welcoming.">
 
-<title>Blog of the Conservation Data Lab – conservationdatalab.org</title>
+<title>Why I started the CDL #2 – conservationdatalab.org</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,24 +29,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6b423f165eeea3787de40cb4f8e821c3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-6b423f165eeea3787de40cb4f8e821c3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,67 +72,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -141,7 +84,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">conservationdatalab.org</span>
     </a>
   </div>
@@ -152,23 +95,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../../people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./participate.html"> 
+    <a class="nav-link" href="../../participate.html"> 
 <span class="menu-text">Participate</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -179,266 +122,76 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="cHJvamVjdHM=">projects <span class="quarto-category-count">(8)</span></div></div></div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Why I started the CDL #2</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">projects</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    The CDL has always been, and always will be a bit messy and hopefully super welcoming.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta column-page">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Randy Swaty </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 8, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="blog-post">
+<p><strong>Take Home Messages</strong></p>
+<ul>
+<li>We all need “in-between” spaces. Growth often happens outside formal structures—where expectations are low but curiosity is high.</li>
+<li>Discomfort is not failure—it’s the work. If you don’t know what you’re doing, you’re probably learning something that actually matters.</li>
+<li>Community accelerates learning. Working alongside others helps you think, adapt, and solve problems in ways you can’t do alone.</li>
+</ul>
+<p>I have always loved those high school teachers who keep their room doors open at lunch, welcoming students who do not want to eat in the cafeteria. My wife is one of those teachers—all of the English Language Learners know they can hang in the “romper room.” My high school band director would keep his doors open and always had music playing. The Conservation Data Lab aims to be the room you can go to hang out and be who you want to be.</p>
+<p>Those rooms mattered more than I realized at the time. They weren’t just places to sit—they were places to belong. No syllabus, no expectations, just a shared understanding that you could show up as you are and figure things out as you go. We all need places to explore, whether a mountain pass, a blank canvas or a science fiction book. These are the “grey areas”—not fully work, not fully school—where we can try new things, fail, succeed in surprising ways and see how other people operate. They are messy by design. There is no clean path, no step-by-step recipe. That’s kind of the point.</p>
+<p>The CDL aims to be that too. Not school, not work, not quite a club. It’s weird that way and a bit hard to define. We do provide places for people to converse about decisions, dabble in conservation-focused projects and experience the trials and tribulations of problem solving when there is no recipe. “Randy, I am so frustrated. I have never done any of this before and I have no idea what I am doing!” An almost direct quote from an early CDL member who was not happy at that moment :).</p>
+<p>That frustration is real—and important.</p>
+<p>When there’s no recipe, you’re forced to build one. You learn not just what works, but how to think when nothing is clear. That’s a skill that doesn’t show up in a syllabus but shows up everywhere else.</p>
+<p>The great <a href="https://directory.nau.edu/person/tct">Dr.&nbsp;Tad Theimer</a> (also see his re-enactments of Charles Darwin <a href="https://youtube.com/playlist?list=PLOxcuG1TDP_FYf4s7SrqFHM2ul5kTsphg&amp;si=55aSltRW-_657FH2">here</a>) once asked me a few years after I graduated, “Randy, what all did we miss in our training of you?” What a great question. While I was lucky in that there was a very vibrant lab culture, my advisers were accessible and the department was welcoming, I did not have that place where I could be myself and practice my future craft. What we “missed” wasn’t content—we had plenty of that. It was a place to practice becoming something before we had a title for it. No one knew where I would end up, but I knew I wasn’t going on in academia. I needed a “romper room” with conservationists, other professionals in the field. The CDL tries to at least connect members with professionals when they want it.</p>
+<p>The Conservation Data Lab is still a bit hard to define, and maybe that’s a good thing. It’s a room with the door open. A place to try, to fail, to ask questions that don’t have clean answers.</p>
+<p>Some days it feels like chaos. Some days it clicks.</p>
+<p>But if we’re doing it right, it’s a place where people can sit down, stay a while, and leave a little more capable—and a little more themselves—than when they walked in.</p>
+<p><br> <br></p>
+<p>Here’s the original CDL crew looking like a new indie-rock band. Photo by Laura Slavsky.</p>
+<p><img src="1.png" class="img-fluid"></p>
+</div>
 
 
 
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cHJvamVjdHM=" data-listing-date-sort="1780891200000" data-listing-file-modified-sort="1780923882534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="541">
-<div class="thumbnail"><a href="./posts/why_cdl_1/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/why_cdl_1/cdl_logo.PNG" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/why_cdl_1/index.html" class="no-external">Why I started the CDL #1</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdHM='); return false;">projects</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/why_cdl_1/index.html" class="no-external">
-<p>The CDL is essentially the product of a random idea, and an awkward meeting.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/why_cdl_1/index.html" class="no-external">
-<div class="listing-date">
-Jun 8, 2026
-</div>
-<div class="listing-author">
-Randy Swaty
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="cHJvamVjdHM=" data-listing-date-sort="1780891200000" data-listing-file-modified-sort="1782135523882" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="611">
-<div class="thumbnail"><a href="./posts/why_cdl_2/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/why_cdl_2/1.PNG" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/why_cdl_2/index.html" class="no-external">Why I started the CDL #2</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdHM='); return false;">projects</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/why_cdl_2/index.html" class="no-external">
-<p>The CDL has always been, and always will be a bit messy and hopefully super welcoming.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/why_cdl_2/index.html" class="no-external">
-<div class="listing-date">
-Jun 8, 2026
-</div>
-<div class="listing-author">
-Randy Swaty
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="cHJvamVjdHM=" data-listing-date-sort="1756353600000" data-listing-file-modified-sort="1758283267522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="412">
-<div class="thumbnail"><a href="./posts/migration_1/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/migration_1/methow_md.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/migration_1/index.html" class="no-external">Mapping Migration</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdHM='); return false;">projects</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/migration_1/index.html" class="no-external">
-<p>Exploring Datasets That Illuminate (Or Not) Mule Deer Migration Patterns: A Best-Case Scenario CDL Project</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/migration_1/index.html" class="no-external">
-<div class="listing-date">
-Aug 28, 2025
-</div>
-<div class="listing-author">
-Randy Swaty, Michaela Cooney, Mary Kelly, Dr.&nbsp;Taylor Ganz
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="cHJvamVjdHM=" data-listing-date-sort="1751860800000" data-listing-file-modified-sort="1756387790134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="361">
-<div class="thumbnail"><a href="./posts/meet_becky_lane/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/meet_becky_lane/mfri.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/meet_becky_lane/index.html" class="no-external">Meeting Becky Lane</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdHM='); return false;">projects</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/meet_becky_lane/index.html" class="no-external">
-<p>Exploring Michigan’s Historical Fire Regimes</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/meet_becky_lane/index.html" class="no-external">
-<div class="listing-date">
-Jul 7, 2025
-</div>
-<div class="listing-author">
-Randy Swaty
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="cHJvamVjdHM=" data-listing-date-sort="1750478400000" data-listing-file-modified-sort="1756387790128" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
-<div class="thumbnail"><a href="./posts/cdl_community_skurkowski/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/cdl_community_skurkowski/sam_randy.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/cdl_community_skurkowski/index.html" class="no-external">Creating a space for learning and community</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdHM='); return false;">projects</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/cdl_community_skurkowski/index.html" class="no-external">
-<p>Exploring the welcoming community of the CDL</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/cdl_community_skurkowski/index.html" class="no-external">
-<div class="listing-date">
-Jun 21, 2025
-</div>
-<div class="listing-author">
-Sam Kurkowski
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="cHJvamVjdHM=" data-listing-date-sort="1749355200000" data-listing-file-modified-sort="1756387790133" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
-<div class="thumbnail"><a href="./posts/keweenaw_harvest/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/keweenaw_harvest/map.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/keweenaw_harvest/index.html" class="no-external">Developing a Harvest Suitability Model</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdHM='); return false;">projects</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/keweenaw_harvest/index.html" class="no-external">
-<p>Using ArcGIS Pro and LANDFIRE data to map potential hardwood harvest locations</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/keweenaw_harvest/index.html" class="no-external">
-<div class="listing-date">
-Jun 8, 2025
-</div>
-<div class="listing-author">
-Keith Phelps and Garrett Knowlton
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="cHJvamVjdHM=" data-listing-date-sort="1748750400000" data-listing-file-modified-sort="1756387790134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="181">
-<div class="thumbnail"><a href="./posts/late_succession/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/late_succession/ref_cur_late.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/late_succession/index.html" class="no-external">LANDFIRE Late Succession Assessment Demo</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdHM='); return false;">projects</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/late_succession/index.html" class="no-external">
-<p>Comparing historical vs.&nbsp;current amounts of late succession habitat in coastal Oregon</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/late_succession/index.html" class="no-external">
-<div class="listing-date">
-Jun 1, 2025
-</div>
-<div class="listing-author">
-Mary Kelly
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="cHJvamVjdHM=" data-listing-date-sort="1748404800000" data-listing-file-modified-sort="1756389926984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="209">
-<div class="thumbnail"><a href="./posts/update_website/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/update_website/cdl_logo_full.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/update_website/index.html" class="no-external">Refreshing the CDL Website</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdHM='); return false;">projects</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/update_website/index.html" class="no-external">
-<p>Building a new website with Quarto, R, blog posts a new logo and an updated look</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/update_website/index.html" class="no-external">
-<div class="listing-date">
-May 28, 2025
-</div>
-<div class="listing-author">
-Randy Swaty
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
