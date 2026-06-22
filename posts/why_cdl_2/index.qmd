@@ -2,7 +2,7 @@
 title: "Why I started the CDL #2"
 description: "The CDL has always been, and always will be a bit messy and hopefully super welcoming. "
 author: "Randy Swaty"
-date: "2026-06-08"
+date: "2026-06-22"
 image: 1.PNG
 draft: false
 categories:

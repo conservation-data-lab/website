@@ -9,6 +9,7 @@
       "/people/mentors/garrett_knowlton.html",
       "/people/mentors/keith_phelps.html",
       "/people/mentors/mary_kelly.html",
+      "/people/mentors/michaela_cooney.html",
       "/people/mentors/sam_ettenborough.html",
       "/people/mentors/stacey_marion.html",
       "/people/members/becky_lane.html",
@@ -26,8 +27,8 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/why_cdl_1/index.html",
       "/posts/why_cdl_2/index.html",
+      "/posts/why_cdl_1/index.html",
       "/posts/migration_1/index.html",
       "/posts/meet_becky_lane/index.html",
       "/posts/cdl_community_skurkowski/index.html",
