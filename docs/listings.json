@@ -1,5 +1,19 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/lta_projects/index.html",
+      "/posts/why_cdl_2/index.html",
+      "/posts/why_cdl_1/index.html",
+      "/posts/migration_1/index.html",
+      "/posts/meet_becky_lane/index.html",
+      "/posts/cdl_community_skurkowski/index.html",
+      "/posts/keweenaw_harvest/index.html",
+      "/posts/late_succession/index.html",
+      "/posts/update_website/index.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/leads/randy_swaty.html",
@@ -18,23 +32,9 @@
       "/people/members/halle_johnson.html",
       "/people/members/katie_bell.html",
       "/people/members/mattea_muscat.html",
-      "/people/members/michaela_cooney.html",
       "/people/members/mollie_haremza.html",
       "/people/members/ocean_ramirez.html",
       "/people/members/willow_brookhouse.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/why_cdl_2/index.html",
-      "/posts/why_cdl_1/index.html",
-      "/posts/migration_1/index.html",
-      "/posts/meet_becky_lane/index.html",
-      "/posts/cdl_community_skurkowski/index.html",
-      "/posts/keweenaw_harvest/index.html",
-      "/posts/late_succession/index.html",
-      "/posts/update_website/index.html"
     ]
   }
 ]
