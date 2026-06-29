@@ -1,0 +1,58 @@
+---
+title: "Ingredients for a great CDL Project, #1"
+description: "Leveraging R, QGIS and iNaturalist to test utility of Land Type Associations with Mollie Haremza and Becky Lane  "
+author: "Randy Swaty"
+date: "2026-06-29"
+image: mollie_becky.png
+draft: false
+categories:
+  - projects
+format:
+  html:
+    page-layout: full
+    toc: false
+
+---
+
+<div class="blog-post">
+
+**Take Home Messages**
+
+* There are many ways to build a great Conservation Data Lab project!
+* With the Land Type Association exploration projects we had: 1) an engaged mentor, Dr. Sarah Anderson, 2) meaningful projects and 3) amazing CDL members, of course. 
+* Perfect does not mean easy, clear cut or streamlined.
+
+A key way to learn in the CDL is to take on a project.  These projects often replicate work completed in the 'real world' or on the job, as they often do not have a recipe, may or may not work out, and do not have a right or wrong answer.  They are not a canned chemistry lab exercise.  In the case of the two Land Type Association (LTA) projects mentioned here the questions posed by our mentor [Dr. Sarah Anderson](https://www.linkedin.com/in/smanderson10/) was reasonable and fairly open ended:
+
+1. How useful are LTAs?
+2. Many terrestrial ecosystem projects use arbitrarily defined hexagons or watersheds, which are designed for aquatic work.  LTAs were designed for terrestrial work so the hypothesis was that variation in ecosystems would be lower for LTAs than for similarly sized hexagons or watershed boundaries.  Is that the case?
+
+LTAs are polygons drawn around areas that are in the low 10s of thousands of acres that have similar soils, geology, climate, vegetation and ecological processes (see this [StoryMap](https://usfs.hub.arcgis.com/pages/a48f22ef8f3e4c5e9fcdbc53d4741cbe) for more information).  THe US Forest Service is in the process of updating older LTAs and making new ones where they did not exist so Sarah was interested in seeing how they hold up in the hands of a couple CDL members. 
+
+[Mollie Haremza](https://www.linkedin.com/in/mollie-haremza-808874304/) took on the first question.  When this project started she had just accepted a Research Experience for Undergrads position at the University of Florida and was keen to learn more at the ecosystems there. I told her about the iconic and critically endangered Longleaf Pine (*Pinus palustris*) ecosystem and shortly she set out to see if she could use the habitat preferences of this tree alongside attributes in the LTA shapefile to predict where Longleaf Pines would occur. You can see the results of her work in this short [write up](mollie_haremza_llp.html).  Spoiler alert: she did fairly well at matching soil properties in the LTA polygons with known Longleaf Pine occurances from [iNaturalist](https://www.inaturalist.org/).  Mollie's work was primarily in the open sourced and powerful software [QGIS](https://www.qgis.org/).
+
+[Becky Lane](https://conservationdatalab.org/people/members/becky_lane) took on the second question, with a focus on the Arapahoe-Roosevelt National Forest in Colorado.  This project required digging into a fair amount of R code that I had written.  While I tried to make reproducible code, I did not fully succeed, requiring Becky to do a fair amount of problem solving!  That said, she was successful and the results of her work are presented at this [website](https://conservation-data-lab.github.io/arnf_ltas/).  I believe she now looks at the landscapes she visits, and R code differently now!
+
+Sarah put it best when she said that learning was key.  Successful CDL projects have the following in common:
+
+1. Are messy.  Just like real life.  And they have meaning-they cannot simply be an exercise.
+2. Have a mentor that can help pull the member(s) through this messiness.  I recently heard that a leader gets people up the mountain.  They may not know how that will be accomplished, but they provide the vision and encouragement.  
+3. Focus on learning and exploration.  This is the hard part, as learning takes additional time.  One has to add comments to the code, write up the results, draw, reflect, explain---all the extra things that can seem like a true add on.  By having a mentor there is extra interest and accountability with learning.
+
+Some CDL projects are small and may just result in a map and some are much more involved.  That said, all of the good ones have at least some of the aforementioned traits in common. 
+
+
+
+
+
+
+<br>
+<br>
+
+Mollie Haremza and Becky Lane. 
+
+![](mollie_becky.png)
+
+</div>
+
+
