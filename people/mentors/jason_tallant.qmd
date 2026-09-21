@@ -1,0 +1,20 @@
+---
+title: "Jason Tallant"
+sortby: "1"
+subtitle: "Mentor"
+image: jason_tallant.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Jason Tallant serves as Data Manager at the University of Michigan Biological Station (UMBS), where he helps ensure that the station’s research and teaching data are discoverable, accessible, and preserved for future use. He collaborates with faculty and student researchers to support rigorous data collection, long-term dataset stewardship, and the dissemination of scientific information through open-data repositories and web-based platforms.
+
+Interests include invasive species ecology, ecological restoration, landscape ecology, prescribed burning, ecosystem services, GIS, remote sensing, and data management.
+

@@ -1,0 +1,20 @@
+---
+title: "Alexa Weaver"
+sortby: "1"
+subtitle: "Member"
+image: alexa_weaver.jpeg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Alexa is an undergraduate biology/ecology student at Northern Michigan University, where she is also a student researcher in a plant ecophysiology lab and vice president of the botany club, amongst so much more! She is passionate about conservation and all things nature, from the forests of Northern Michigan all the way to the sea! In her free time, Alexa loves to explore the beautiful outdoors. She loves rock climbing, backpacking, mountain biking, snowboarding– if it’s outside, she’ll be there! Alexa also loves to read and spend time with those she loves! With the CDL, her biggest goals are to learn more about R and GIS, as well as soak in all of the knowledge from others in the lab! 
+
+Interested in learning more? Contact Alexa at aleweave@nmu.edu 
+ 
+
