@@ -1,0 +1,18 @@
+---
+title: "Anna Wright"
+sortby: "1"
+subtitle: "Mentor"
+image: anna_wright.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+I'm Anna, and I spend my time thinking about water, plants, cities, and how they all fit together. My background spans water policy, planning, ecology, and urban greening, with ten years of experience helping communities tackle environmental challenges.
+
+I care deeply about building climate-resilient communities and making nature more accessible for everyone. I'm always excited to meet others who are passionate about Western water issues, urban forestry, and sustainable, livable cities. Let's connect and swap ideas. See you in the parks!
