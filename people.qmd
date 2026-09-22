@@ -85,15 +85,14 @@ listing:
 - Lea Kemle
 - Eva Legge
 - Rhayna Lillie
-- Emma Lusting
-- Rachel Meier
+
 
 ::::
 
 :::: {.column width="50%"}
 
-
-- Erin Matula
+- Emma Lusting
+- Rachel Meier
 - Kian McDonough
 - Alex Mezera
 - Avery Merrit
@@ -113,6 +112,6 @@ listing:
 - Myles Walimaa
 - Gavin White
 - Anna Wright
-- Myles Walimaa
+
 ::::
 :::
