@@ -1,0 +1,23 @@
+---
+title: "DeAnna Philpott"
+sortby: "1"
+subtitle: "Member"
+image: deanna_philpott.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+**Interests:** Behavioral ecology and evolution, disturbance ecology, linguistics, Asian studies.
+
+**Past/current education:** Began at the University of Northern Colorado studying Ecology and Evolution, and Asian Studies. Finishing undergrad at Northern Michigan University studying Fisheries and Wildlife Management on the Wildlife track.
+
+**Bio:** Growing up in museums, DeAnna has harbored a life long interest in science and nature that continues now into her passions for ecology. She started her journey at the University of Northern Colorado where she assisted in birdsong data collection across deserts, rainforests, mountains, and forests. Her experience with vastly different environments mixed with a deep involvement in Asian studies leads her to aim to work internationally in the future in various different habitats.
+ 
+
