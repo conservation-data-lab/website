@@ -1,0 +1,26 @@
+---
+title: "Willow Zapata"
+sortby: "1"
+subtitle: "Mentor"
+image: willow_zapata.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Willow is from Grand Rapids, Michigan, and has loved the outside for as long as she can remember. After spending a year at Grand Rapids Community College, she went north, where she attended Northern Michigan University as an Environmental Science Major, with a concentration in Natural Resources, and a double minor in Biology and GIS. She reached out to join the CDL to work on wildfire research and learn ArcGIS.
+
+Through her time at Northern Michigan University and as a member in the CDL, she worked on many interesting projects, including Fire Behavior Modelling in the Two Hearted Watershed, Trail Map updating with the Upper Peninsula Land Conservancy, Remote Sensing Analysis of a National Park in Senegal, and many more. She is excited to see where her next steps lead her. Other than the CDL, she works for the City of Marquette as a Zamboni Driver, and for the Michigan DNR as a Michigan Wildland Firefighter. When she isn’t working, she is hiking, reading, learning new things, or hanging out with her cat Chorizo.
+
+**Interests:** Landscape Modelling, Fire Ecology and Behavior, GIS, Disturbance Ecology, Coding, and more!
+<br>
+**Past/current education:** B.S. in Environmental Sciences at Northern Michigan University
+
+
+[Resume](https://docs.google.com/document/d/1u_k-v091Jhaln-uU6iNEeifwsEGa_5Y0PkebsHd3zsY/edit?usp=sharing) 
+
