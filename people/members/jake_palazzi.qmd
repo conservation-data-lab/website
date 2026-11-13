@@ -1,0 +1,32 @@
+---
+title: "Jake Palazzi"
+sortby: "1"
+subtitle: "Member"
+image: jake_palazzi.jpg
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+
+## Interests 
+Restoration ecology, Disturbance Ecology, Conservation, Land Management
+
+## Education 
+Portland State University Bachelors of Science 2020
+
+
+
+## Biography
+Jake is a highly motivated ecologist seeking ways to use quantitative modeling, applied social science, and manager partnerships to create practical solutions to environmental conflict for the benefit of land managers, private landowners, traditional users, and the public.
+
+He graduated with a Bachelors of Science in Biology from Portland State University in 2020 and has thoroughly enjoyed running around in the woods ever since.  With six years of fieldwork and data collection under his belt he is experienced in ecological field methods, possesses a strong foundation in plant identification and habitat assessment, and is looking for opportunities to learn more about digital tools for data analysis including R, ArcGIS, and Excel. 
+
+When Jake isn’t working he is hiking, backpacking, biking and playing Magic the Gathering in the beautiful mountains on Colorado that he calls home.  
+
+ 
+
