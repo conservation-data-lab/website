@@ -1,0 +1,25 @@
+---
+title: "Julia Stuart"
+sortby: "1"
+subtitle: "Member"
+image: julia_stuart.png
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::
+
+## Interests
+Ecology and Environmental Justice
+
+## Education
+University of Michigan, Mechanical Engineering
+
+## Bio: 
+My background is in hardware-based and some simulation-based mechanical engineering work. I studied this field as an undergraduate and worked as a mechanical engineer at a carbon capture start-up company based in Southeast Michigan. My professional inclinations and experiences are engineering focused, but my interests and personal passions center ecological/environmental/earth studies and education. I am excited to spend time building skills in my areas of personal interest and find ways to weave these into my professional work. 
+
+ 
+
